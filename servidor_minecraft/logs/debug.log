@@ -27333,3 +27333,95 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 [07:19:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [07:20:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 545 times.
+
+[07:21:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:21:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 550 times.
+
+[07:21:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:21:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:21:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:21:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:21:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 555 times.
+
+[07:22:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:22:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:22:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:22:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:22:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:22:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:22:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:22:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:22:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:22:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:22:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:22:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:22:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[07:22:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[07:22:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[07:22:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[07:22:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 560 times.
+
+[07:23:11] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=234, y0=62, z0=272, x1=243, y1=76, z1=281} (0)
+[07:23:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:23:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:23:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:23:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:23:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:23:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 565 times.
+
+[07:24:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 570 times.
+
+[07:24:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:24:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:24:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:24:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:24:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:25:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 575 times.
+
+[07:25:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:26:10] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=124, y0=14, z0=197, x1=134, y1=21, z1=207} (0)
+[07:26:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 580 times.
+
+[07:26:18] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundCrypt' in StructureBoundingBox{x0=58, y0=34, z0=223, x1=86, y1=48, z1=237} (0)
+[07:26:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:26:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:26:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:26:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:27:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 585 times.
+
+[07:27:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:27:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:27:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 590 times.
+
+[07:28:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:28:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:28:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 595 times.
+
+[07:29:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:29:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:29:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:29:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:29:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:29:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:29:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:29:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:29:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:29:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 600 times.
+
+[07:29:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:29:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:29:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:29:55] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:30:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:30:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:30:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 605 times.
+
