@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-20 04:17:36 +0000"
@@ -39,6 +45,7 @@
     "criteria": {
       "shrubland": "2025-08-20 04:18:20 +0000",
       "chaparral": "2025-08-20 04:06:51 +0000",
+      "lush_desert": "2025-08-20 06:09:38 +0000",
       "gravel_beach": "2025-08-20 04:33:53 +0000"
     },
     "done": false
@@ -49,9 +56,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-20 04:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
     },
     "done": true
   },
@@ -146,6 +165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-20 04:17:36 +0000"
@@ -155,6 +180,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2025-08-20 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
     },
     "done": true
   },
@@ -188,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-20 04:17:36 +0000"
@@ -209,6 +246,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-20 04:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-20 06:04:17 +0000"
     },
     "done": true
   },
@@ -272,6 +315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-08-20 04:17:17 +0000"
@@ -281,6 +330,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2025-08-20 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
     },
     "done": true
   },
@@ -334,7 +389,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-20 04:32:07 +0000"
+      "apple": "2025-08-20 06:14:47 +0000",
+      "bread": "2025-08-20 04:32:07 +0000",
+      "cooked_chicken": "2025-08-20 06:15:00 +0000"
     },
     "done": false
   },
@@ -344,9 +401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-20 04:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
     },
     "done": true
   },
@@ -449,6 +518,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-08-20 04:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-20 06:07:29 +0000"
     },
     "done": true
   },

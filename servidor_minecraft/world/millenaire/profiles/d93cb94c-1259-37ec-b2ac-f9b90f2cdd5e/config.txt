@@ -1,0 +1,2 @@
+player_name=Dohko598
+donation_mode=false

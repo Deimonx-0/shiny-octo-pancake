@@ -1,2 +1,5 @@
 player_name=Deimonxm
 donation_mode=false
+culture_reputation=byzantines,5
+culture_language=byzantines,48
+village_reputations=374/66/-79,48

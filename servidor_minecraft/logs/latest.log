@@ -316,3 +316,98 @@
 [05:53:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set game difficulty to Normal]
 [05:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set game difficulty to Hard]
 [05:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Getting an Upgrade]
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Suit Up]
+[06:00:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:00:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:00:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:00:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:02:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Sweet dreams]
+[06:04:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:04:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:04:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:04:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Explorer]
+[06:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:06:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[06:06:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[06:06:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[06:06:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[06:07:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Stone Age]
+[06:09:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[06:09:35] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[06:09:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [36, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [37, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [38, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [39, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [40, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [41, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [42, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [43, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [44, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [45, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:39] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [46, 1] in dimension 0 (overworld) while populating chunk [50, -7], causing cascading worldgen lag.
+[06:10:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:11:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2238ms behind, skipping 44 tick(s)
+[06:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Leopard
+[06:12:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[06:12:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[06:12:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[06:12:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[06:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[06:13:07] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:13:07] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:13:07] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Orc
+[06:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[06:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[06:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[06:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[06:13:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:13:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:13:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:13:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:14:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:14:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:14:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:14:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:15:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:15:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:15:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:15:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:15:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:15:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:15:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:15:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:16:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:16:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:16:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:16:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:17:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set game difficulty to Normal]
+[06:18:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:18:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:18:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:18:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:18:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:18:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:18:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:18:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
