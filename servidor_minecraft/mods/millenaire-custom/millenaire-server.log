@@ -1,0 +1,15 @@
+8.1.1 20-08-2025 04:05:44 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 04:05:54 MAJOR: null: Loading language: fr
+8.1.1 20-08-2025 04:05:54 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 20-08-2025 04:05:54 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 20-08-2025 04:05:54 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 20-08-2025 04:09:35 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 04:09:44 MAJOR: null: Loading language: fr
+8.1.1 20-08-2025 04:09:44 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 20-08-2025 04:09:44 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 20-08-2025 04:09:44 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 20-08-2025 05:49:09 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 05:49:19 MAJOR: null: Loading language: fr
+8.1.1 20-08-2025 05:49:20 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 20-08-2025 05:49:20 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 20-08-2025 05:49:20 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
