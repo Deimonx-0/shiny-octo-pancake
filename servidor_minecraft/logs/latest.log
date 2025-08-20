@@ -661,3 +661,19 @@
 [07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
 [07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
 [07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Masquerade]
+[07:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Monster Hunter]
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null

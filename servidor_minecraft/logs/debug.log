@@ -27272,3 +27272,64 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 [07:09:52] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=551, y0=66, z0=-577, x1=561, y1=79, z1=-567} (0)
 [07:09:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:10:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 485 times.
+
+[07:10:32] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [636, -534] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:10:32] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [634, -524] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:10:32] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [634, -536] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:10:32] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [632, -534] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:10:32] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [637, -535] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:10:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:11:03] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [594, -576] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:11:03] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=590, y0=71, z0=-590, x1=601, y1=83, z1=-578} (0)
+[07:11:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 490 times.
+
+[07:11:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:12:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 495 times.
+
+[07:12:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:12:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:12:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 500 times.
+
+[07:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Masquerade]
+[07:13:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:13:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 505 times.
+
+[07:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Monster Hunter]
+[07:14:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:14:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 510 times.
+
+[07:15:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 515 times.
+
+[07:15:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:16:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:16:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 520 times.
+
+[07:16:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:17:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 525 times.
+
+[07:17:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:17:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 530 times.
+
+[07:18:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:18:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[07:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[07:18:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 535 times.
+
+[07:18:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 540 times.
+
+[07:19:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
