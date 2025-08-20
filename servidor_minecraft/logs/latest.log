@@ -727,3 +727,41 @@
 [07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
 [07:29:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
 [07:30:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:32:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:32:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:32:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:32:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm was kicked for floating too long!
+[07:32:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm lost connection: Flying is not enabled on this server
+[07:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm left the game
+[07:33:01] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[07:33:01] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 31 mods : minecraft@1.12.2,mowziesmobs@1.5.8,dynamictreesbop@1.12.2-9999.9999.9999z,biomesoplenty@7.0.1.2445,baubles@1.5.2,mca@6.1.0,aether@0.3.0,reccomplex@1.4.8.6,jei@4.16.1.1013,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,mocreatures@12.4.6,sexmod@1.1.0,xaerominimap@25.2.10,mcp@9.42,FML@8.0.99.99,llibrary@1.7.20,grimoireofgaia@1.7.2,millenaire@Millénaire 8.1.1,xaerominimap_core@1.12.2-1.0,orbis-lib@0.2.0,iceandfire@1.9.1,waila@1.8.26,forge@14.23.5.2860,atop@1.6,dynamictrees@1.12.2-0.9.29,twilightforest@3.11.1021,phosphor-lighting@1.12.2-0.2.6,geckolib3@3.0.30,orelib@3.6.0.1,dsurround@@VERSION@
+[07:33:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:33:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Deimonxm[/100.105.5.64:41336] logged in with entity id 167635 at (324.4540278285131, 64.38584064292596, -106.07847405079568)
+[07:33:02] [Server thread/INFO] [dsurround]: Player [Deimonxm] connected with Dynamic Surroundings @VERSION@
+[07:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm joined the game
+[07:33:02] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Deimonxm'/167635, l='world', x=324.45, y=64.39, z=-106.08] connected. Sending ping
+[07:33:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:33:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Cecaelia
+[07:36:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:36:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:36:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:36:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Cecaelia
+[07:36:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Spectator Mode]
+[07:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Survival Mode]
+[07:40:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was killed by magic
+[07:40:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:40:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:40:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:40:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:40:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Stone Age]
+[07:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[07:41:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:41:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:41:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:41:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Not Today, Thank You]
+[07:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Not Today, Thank You]
