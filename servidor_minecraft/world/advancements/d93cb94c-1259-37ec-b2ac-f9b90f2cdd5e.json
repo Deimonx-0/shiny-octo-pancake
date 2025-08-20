@@ -231,7 +231,8 @@
     "criteria": {
       "baked_potato": "2025-08-20 06:04:40 +0000",
       "apple": "2025-08-20 06:04:32 +0000",
-      "potato": "2025-08-20 06:23:36 +0000"
+      "potato": "2025-08-20 06:23:36 +0000",
+      "bread": "2025-08-20 06:37:15 +0000"
     },
     "done": false
   },
@@ -399,9 +400,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-20 06:43:18 +0000",
       "shrubland": "2025-08-20 05:54:37 +0000",
       "chaparral": "2025-08-20 05:52:53 +0000",
       "lush_desert": "2025-08-20 06:09:42 +0000",
+      "redwood_forest": "2025-08-20 06:45:27 +0000",
       "gravel_beach": "2025-08-20 06:16:17 +0000"
     },
     "done": false
@@ -415,6 +418,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2025-08-20 05:53:41 +0000",
+      "ocean": "2025-08-20 06:29:23 +0000",
       "river": "2025-08-20 05:54:05 +0000"
     },
     "done": false
@@ -539,6 +543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-20 06:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-08-20 05:54:05 +0000"
@@ -578,6 +588,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2025-08-20 05:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-20 06:43:31 +0000"
     },
     "done": true
   },

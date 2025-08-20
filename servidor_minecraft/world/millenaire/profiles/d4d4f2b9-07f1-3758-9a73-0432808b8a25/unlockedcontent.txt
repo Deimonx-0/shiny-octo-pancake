@@ -1,7 +1,11 @@
 villager:byzantines_oldshepherd_byzantine
+village:indian_indian_agricole
 village:byzantines_lonesheepfarm_x
+building:indian_borderpost_corner
 building:byzantines_oldsheepfarm
 tradegood:byzantines_wood_pine
 tradegood:byzantines_wood
+tradegood:byzantines_cobblestone
 tradegood:byzantines_wool_white
 tradegood:byzantines_wood_birch
+tradegood:byzantines_wood_acacia

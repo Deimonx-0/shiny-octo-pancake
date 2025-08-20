@@ -26867,3 +26867,213 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06:29:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
 [06:29:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
 [06:29:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[06:30:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:30:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:30:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:30:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:30:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:30:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 245 times.
+
+[06:30:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:30:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:30:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:30:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:30:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[06:31:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 250 times.
+
+[06:31:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:32:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:32:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:32:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:32:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:32:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 255 times.
+
+[06:32:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:32:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 260 times.
+
+[06:33:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:33:23] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=454, y0=68, z0=-463, x1=465, y1=80, z1=-451} (0)
+[06:33:33] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [444, -393] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:33] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [447, -406] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:33] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [454, -400] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:33] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [446, -405] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:33] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [453, -400] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [433, -365] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [438, -375] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [427, -372] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [436, -361] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [436, -369] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [436, -351] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [438, -345] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [435, -358] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [428, -350] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:36] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [437, -358] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:40] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [424, -444] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:33:40] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=426, y0=78, z0=-451, x1=436, y1=91, z1=-441} (0)
+[06:33:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 265 times.
+
+[06:33:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:34:09] [Server thread/TRACE] [reccomplex]: Generated structure 'DinosaurSkull' in StructureBoundingBox{x0=405, y0=62, z0=-391, x1=416, y1=71, z1=-372} (0)
+[06:34:09] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=409, y0=65, z0=-367, x1=417, y1=77, z1=-359} (0)
+[06:34:28] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [441, -463] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:28] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [454, -465] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:28] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree1' in StructureBoundingBox{x0=440, y0=68, z0=-465, x1=451, y1=81, z1=-455} (0)
+[06:34:28] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree1' in StructureBoundingBox{x0=595, y0=67, z0=-471, x1=606, y1=80, z1=-461} (0)
+[06:34:28] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=625, y0=64, z0=-464, x1=635, y1=77, z1=-454} (0)
+[06:34:28] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=633, y0=65, z0=-468, x1=645, y1=77, z1=-457} (0)
+[06:34:35] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [464, -487] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:35] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [458, -483] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:35] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=453, y0=67, z0=-479, x1=463, y1=80, z1=-469} (0)
+[06:34:35] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=583, y0=67, z0=-479, x1=594, y1=79, z1=-467} (0)
+[06:34:35] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [660, -480] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:35] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [663, -477] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:35] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [660, -482] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:34:35] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=654, y0=63, z0=-491, x1=665, y1=75, z1=-479} (0)
+[06:34:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 270 times.
+
+[06:34:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:35:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:35:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 275 times.
+
+[06:36:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:36:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 280 times.
+
+[06:36:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:36:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:36:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:36:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:36:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:36:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:36:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:36:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:36:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:36:55] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=377, y0=65, z0=-393, x1=385, y1=77, z1=-385} (0)
+[06:37:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 285 times.
+
+[06:37:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:37:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 290 times.
+
+[06:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Madelene (Warrior)
+[06:38:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Acquire Hardware]
+[06:38:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[06:38:12] [Server thread/DEBUG] [twilightforest]: Player Dohko598 respawned and received items held in storage
+[06:38:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[06:38:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:38:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 295 times.
+
+[06:39:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:39:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 300 times.
+
+[06:39:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:40:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 305 times.
+
+[06:40:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:41:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:41:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:41:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:41:17] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:41:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 310 times.
+
+[06:41:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:42:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 315 times.
+
+[06:42:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:42:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:42:57] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=495, y0=65, z0=204, x1=504, y1=79, z1=213} (0)
+[06:42:57] [Server thread/TRACE] [reccomplex]: Generated structure 'DinosaurSkull' in StructureBoundingBox{x0=597, y0=62, z0=194, x1=616, y1=71, z1=205} (0)
+[06:42:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 320 times.
+
+[06:42:59] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=614, y0=64, z0=217, x1=619, y1=74, z1=222} (0)
+[06:42:59] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=454, y0=71, z0=224, x1=463, y1=75, z1=235} (0)
+[06:43:01] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageWoodMill' in StructureBoundingBox{x0=710, y0=62, z0=232, x1=726, y1=90, z1=245} (0)
+[06:43:07] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageForgeLarge' in StructureBoundingBox{x0=723, y0=60, z0=214, x1=739, y1=71, z1=226} (0)
+[06:43:08] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=690, y0=63, z0=273, x1=695, y1=73, z1=278} (0)
+[06:43:08] [Server thread/DEBUG] [dynamictrees]: Non-viable branch network detected during world generation @ BlockPos{x=715, y=66, z=274}
+[06:43:08] [Server thread/DEBUG] [dynamictrees]: Species: dynamictrees:oak
+[06:43:08] [Server thread/DEBUG] [dynamictrees]: Radius: 3
+[06:43:08] [Server thread/DEBUG] [dynamictrees]: JoCode: JOORJXZJxR+fn0hOJPSJ9pJOJ8
+[06:43:11] [Server thread/TRACE] [reccomplex]: StoneLeafMound failed to spawn at [456, 311] (incompatible biome edge)
+[06:43:13] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound' canceled generation at [462, 320] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:43:17] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound3' canceled generation at [474, 341] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:43:20] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=759, y0=62, z0=275, x1=771, y1=72, z1=288} (0)
+[06:43:20] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallAbandonedMine' in StructureBoundingBox{x0=750, y0=54, z0=291, x1=775, y1=67, z1=306} (0)
+[06:43:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:43:43] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound1' canceled generation at [534, 374] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[06:43:43] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=559, y0=58, z0=358, x1=569, y1=68, z1=368} (0)
+[06:43:43] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=611, y0=63, z0=360, x1=618, y1=66, z1=369} (0)
+[06:43:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:43:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:43:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:43:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:43:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 325 times.
+
+[06:43:50] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=391, y0=68, z0=288, x1=403, y1=78, z1=301} (0)
+[06:44:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:44:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 330 times.
+
+[06:44:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=328, y0=71, z0=350, x1=340, y1=81, z1=363} (0)
+[06:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:45:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:45:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:45:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:45:04] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:45:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID 5805f900-9354-4801-ac14-0cd2b52788a8 owned by null
+[06:45:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 82905ede-b9dc-4227-9377-f726d84d95f8 owned by null
+[06:45:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a30191c1-e8f2-4532-b85c-577b1c52d88b owned by null
+[06:45:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 3733373c-2c0b-46b3-b99f-4843d0388fbb owned by null
+[06:45:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:45:08] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=319, y0=72, z0=342, x1=324, y1=82, z1=347} (0)
+[06:45:09] [Server thread/DEBUG] [dynamictrees]: Non-viable branch network detected during world generation @ BlockPos{x=309, y=74, z=323}
+[06:45:09] [Server thread/DEBUG] [dynamictrees]: Species: dynamictrees:oakswamp
+[06:45:09] [Server thread/DEBUG] [dynamictrees]: Radius: 3
+[06:45:09] [Server thread/DEBUG] [dynamictrees]: JoCode: JOJOJOOP0+vXb9pJ8hJOePfS
+[06:45:21] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound3' in StructureBoundingBox{x0=278, y0=68, z0=199, x1=287, y1=72, z1=210} (0)
+[06:45:21] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=278, y0=64, z0=176, x1=288, y1=74, z1=186} (0)
+[06:45:21] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=276, y0=65, z0=338, x1=285, y1=79, z1=347} (0)
+[06:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'ClayWaterMound' in StructureBoundingBox{x0=265, y0=67, z0=315, x1=273, y1=69, z1=322} (0)
+[06:45:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 335 times.
+
+[06:45:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:45:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:45:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:45:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:45:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 340 times.
+
+[06:46:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:46:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:46:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:46:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:46:47] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[06:47:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 345 times.
+
+[06:47:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID 5805f900-9354-4801-ac14-0cd2b52788a8 owned by null
+[06:47:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 82905ede-b9dc-4227-9377-f726d84d95f8 owned by null
+[06:47:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a30191c1-e8f2-4532-b85c-577b1c52d88b owned by null
+[06:47:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 3733373c-2c0b-46b3-b99f-4843d0388fbb owned by null
+[06:47:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:47:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 350 times.
+
+[06:48:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:48:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[06:48:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[06:48:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[06:48:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[06:48:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 355 times.
+
+[06:48:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nud with UUID 529b521c-e426-434a-8bcf-67d02fbe26cc owned by null
+[06:49:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID ef232930-1acd-41c9-9607-8c5df48f60cd owned by null
+[06:49:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 67c250b0-2b89-4b2a-bcfd-0e1ca3b9adc7 owned by null
+[06:49:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID affd6f91-a3cb-404b-a1fb-85d04cf36cd8 owned by null
+[06:49:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 360 times.
+
+[06:49:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:49:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[06:49:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[06:49:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[06:49:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
