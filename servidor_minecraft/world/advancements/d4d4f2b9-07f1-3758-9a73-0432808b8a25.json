@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-20 07:08:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2025-08-20 04:18:05 +0000"
@@ -476,7 +482,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "deep_ocean": "2025-08-20 07:07:05 +0000",
       "beaches": "2025-08-20 04:18:04 +0000",
+      "savanna": "2025-08-20 07:07:54 +0000",
       "river": "2025-08-20 04:18:06 +0000"
     },
     "done": false
@@ -643,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-20 07:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-20 06:22:05 +0000"
@@ -676,6 +690,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-20 04:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-20 07:08:19 +0000"
     },
     "done": true
   },

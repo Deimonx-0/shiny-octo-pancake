@@ -650,3 +650,14 @@
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'

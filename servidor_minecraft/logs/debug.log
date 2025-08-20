@@ -27199,3 +27199,76 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
 [07:00:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 1a7342cf-58ce-4073-8335-5cc860746df4 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vutu with UUID 44f4bb5d-e327-4717-b93d-7b54b2ac7079 owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID efb0057d-e442-49a0-a571-09715ea06ada owned by null
+[07:00:26] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 9c1d5f16-5824-4e0e-a6fb-41fce133111a owned by null
+[07:00:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 425 times.
+
+[07:00:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:01:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 430 times.
+
+[07:01:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:01:47] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=126, y0=76, z0=-356, x1=138, y1=86, z1=-343} (0)
+[07:01:49] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [328, -369] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:49] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [336, -374] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:49] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [336, -363] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:49] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [329, -363] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:49] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [334, -370] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:55] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=223, y0=68, z0=-386, x1=230, y1=71, z1=-377} (0)
+[07:01:55] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [345, -386] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:01:55] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=344, y0=66, z0=-390, x1=356, y1=78, z1=-379} (0)
+[07:02:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 435 times.
+
+[07:02:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:02:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 440 times.
+
+[07:03:03] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=347, y0=66, z0=-400, x1=358, y1=78, z1=-388} (0)
+[07:03:05] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=239, y0=11, z0=-414, x1=249, y1=18, z1=-404} (0)
+[07:03:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [371, -424] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:03:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [366, -419] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:03:05] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=361, y0=65, z0=-415, x1=373, y1=77, z1=-404} (0)
+[07:03:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:03:22] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [388, -431] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@43a34695
+[07:03:22] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=370, y0=62, z0=-434, x1=381, y1=74, z1=-422} (0)
+[07:03:41] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=395, y0=89, z0=-456, x1=405, y1=102, z1=-446} (0)
+[07:03:42] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=396, y0=90, z0=-481, x1=404, y1=102, z1=-473} (0)
+[07:03:46] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=358, y0=84, z0=-507, x1=369, y1=96, z1=-495} (0)
+[07:03:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 445 times.
+
+[07:03:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:04:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 450 times.
+
+[07:04:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:04:55] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=399, y0=90, z0=-520, x1=409, y1=103, z1=-510} (0)
+[07:05:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:05:27] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 455 times.
+
+[07:06:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:06:17] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 460 times.
+
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID dc282812-423f-4e39-9338-ee09e1ff768f owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID bafbb7b8-05a2-48b8-9e7b-30bd67f390ed owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 38a01ffc-f03a-410e-b719-2177533fa0cf owned by null
+[07:06:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 00824259-1685-4461-9fda-b31fb4bb13b0 owned by null
+[07:06:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:07:07] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 465 times.
+
+[07:07:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:07:57] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 470 times.
+
+[07:08:14] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=531, y0=65, z0=-525, x1=541, y1=78, z1=-515} (0)
+[07:08:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:08:44] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=540, y0=65, z0=-526, x1=548, y1=77, z1=-518} (0)
+[07:08:47] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=570, y0=66, z0=-533, x1=578, y1=78, z1=-525} (0)
+[07:08:47] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 475 times.
+
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:08:50] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[07:09:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:09:30] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=357, y0=64, z0=-595, x1=369, y1=76, z1=-584} (0)
+[07:09:37] [Server thread/DEBUG] [FML]: The world 442e0012 (world) may have leaked: seen 480 times.
+
+[07:09:52] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=551, y0=66, z0=-577, x1=561, y1=79, z1=-567} (0)
+[07:09:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
