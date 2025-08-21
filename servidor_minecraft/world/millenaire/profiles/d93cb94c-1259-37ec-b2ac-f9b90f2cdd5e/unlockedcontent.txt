@@ -1,7 +1,9 @@
 villager:byzantines_oldshepherd_byzantine
 villager:norman_lonewife
 villager:norman_lonemiller
+village:inuits_religiousvillage
 village:norman_lonemill
 village:byzantines_lonesheepfarm_x
 building:norman_lonemill
 building:byzantines_oldsheepfarm
+building:inuits_borderpost_gate

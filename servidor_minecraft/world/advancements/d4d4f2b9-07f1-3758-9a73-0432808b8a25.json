@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-21 06:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-21 05:35:49 +0000"
@@ -685,6 +691,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2025-08-21 06:47:31 +0000",
       "snowy_forest": "2025-08-21 05:53:07 +0000",
       "kelp_forest": "2025-08-21 06:11:55 +0000",
       "meadow": "2025-08-21 04:38:50 +0000",
@@ -806,6 +813,12 @@
     },
     "done": true
   },
+  "millenaire:recipes/snow": {
+    "criteria": {
+      "snowbrick": "2025-08-21 06:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-21 04:47:46 +0000"
@@ -839,6 +852,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 05:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-08-21 06:55:26 +0000"
     },
     "done": true
   },
