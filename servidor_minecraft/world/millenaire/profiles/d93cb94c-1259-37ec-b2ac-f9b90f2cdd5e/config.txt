@@ -2,3 +2,4 @@ player_name=Dohko598
 donation_mode=false
 culture_reputation=byzantines,-1
 village_reputations=275/64/-254,-10
+village_diplomacy=-63/68/-1042,5

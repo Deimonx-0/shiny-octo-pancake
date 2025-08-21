@@ -13,13 +13,17 @@
 -365 33 -629 -361 35 -625 OceanGoldOreOutcrop.tml
 -351 48 -551 -344 56 -506 Ship4.tml
 -346 50 -732 -317 57 -727 Ship3.tml
+-289 81 -994 -257 97 -987 RotaryExcavator.tml
 -273 47 -582 -268 51 -565 Ship.tml
 -229 55 -754 -193 66 -745 Ship2.tml
 -219 36 -416 -214 43 -387 Ship3.tml
 -193 66 -840 -192 68 -839 BuriedChest.tml
 -186 34 -319 -182 36 -315 OceanEmeraldOreOutcrop.tml
+-143 67 -1110 -122 113 -1089 PowerLineNew.tml
 -109 44 -434 -73 55 -425 Ship2.tml
 -75 33 -253 -62 42 -240 OceanVolcanicVent.tml
+-33 69 -1172 -16 77 -1155 Building4.tml
+-31 64 -1078 -21 76 -1066 Pump.tml
 -8 69 -686 6 75 -675 Barn.tml
 0 47 -340 17 51 -335 Ship.tml
 12 52 -256 35 52 -233 OilSlick.tml
@@ -28,6 +32,7 @@
 65 69 -538 105 77 -500 FallenPlane.tml
 99 70 -667 125 103 -647 AdvancedUndergroundHouse.tml
 101 57 -108 137 68 -99 Ship2.tml
+102 49 -1112 119 53 -1107 Ship.tml
 119 48 -892 142 48 -869 OilSlick.tml
 124 49 -269 131 57 -215 Ship5.tml
 131 35 28 176 43 35 Ship4.tml
