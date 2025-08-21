@@ -1670,3 +1670,115 @@
 [06:55:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [06:55:34] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [-8, -78] in dimension 0 (overworld) while populating chunk [-5, -75], causing cascading worldgen lag.
 [06:55:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[06:56:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[06:56:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 40.15320788549313,-22.66666666666667,345.8549326617285
+[06:56:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 120.45962365647937,-68.0,1037.5647979851856
+[06:56:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, -77] in dimension 0 (overworld) while populating chunk [-15, -77], causing cascading worldgen lag.
+[06:56:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, -78] in dimension 0 (overworld) while populating chunk [-15, -77], causing cascading worldgen lag.
+[06:56:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, -79] in dimension 0 (overworld) while populating chunk [-15, -77], causing cascading worldgen lag.
+[06:56:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-15, -78] in dimension 0 (overworld) while populating chunk [-15, -77], causing cascading worldgen lag.
+[06:56:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-15, -79] in dimension 0 (overworld) while populating chunk [-15, -77], causing cascading worldgen lag.
+[06:56:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:55] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -72] in dimension 0 (overworld) while populating chunk [-20, -71], causing cascading worldgen lag.
+[06:56:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:56:55] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-21, -72] in dimension 0 (overworld) while populating chunk [-20, -71], causing cascading worldgen lag.
+[06:56:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -77] in dimension 0 (overworld) while populating chunk [-20, -76], causing cascading worldgen lag.
+[06:57:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-21, -77] in dimension 0 (overworld) while populating chunk [-20, -76], causing cascading worldgen lag.
+[06:57:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 43.90701086627209,-22.66666666666667,347.54633828875853
+[06:57:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 130.83924702894046,-68.0,1045.1286831953303
+[06:57:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -77] in dimension 0 (overworld) while populating chunk [-18, -77], causing cascading worldgen lag.
+[06:57:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -78] in dimension 0 (overworld) while populating chunk [-18, -77], causing cascading worldgen lag.
+[06:57:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -80] in dimension 0 (overworld) while populating chunk [-20, -78], causing cascading worldgen lag.
+[06:57:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -79] in dimension 0 (overworld) while populating chunk [-18, -77], causing cascading worldgen lag.
+[06:57:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:58:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 46.177097433692836,-22.66666666666667,347.59205675074736
+[06:58:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 138.53129230107848,-68.0,1042.7761702522423
+[06:59:21] [Server thread/INFO] [STDOUT]: [com.trolmastercard.sexmod.a8$a:lambda$onMessage$0:-1]: teleporting player d4d4f2b9-07f1-3758-9a73-0432808b8a25 to (-143.80951788233173, 61.87999999523163, -1017.2433369922065)
+[06:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm suffocated in a wall
+[06:59:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:59:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID fd7a1f7a-c10c-41d1-a5be-27125ffbadb8 owned by null
+[06:59:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 62ec08c1-382b-4b4a-bdb4-65649b31bb30 owned by null
+[06:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Isn't It Iron Pick]
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[07:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set game difficulty to Easy]
+[07:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was killed by magic
+[07:03:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[07:03:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID fd7a1f7a-c10c-41d1-a5be-27125ffbadb8 owned by null
+[07:03:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 62ec08c1-382b-4b4a-bdb4-65649b31bb30 owned by null
+[07:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Selkie
+[07:04:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[07:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Spectator Mode]
+[07:05:00] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictreesbop:firbranchx} not valid branch for dynamictreesbop:fir.
+[07:05:00] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-12, -80] in dimension 0 (overworld) while populating chunk [-10, -80], causing cascading worldgen lag.
+[07:05:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:00] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-13, -80] in dimension 0 (overworld) while populating chunk [-10, -80], causing cascading worldgen lag.
+[07:05:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:00] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-12, -81] in dimension 0 (overworld) while populating chunk [-10, -80], causing cascading worldgen lag.
+[07:05:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:00] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-11, -81] in dimension 0 (overworld) while populating chunk [-10, -80], causing cascading worldgen lag.
+[07:05:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snis with UUID e6841f07-1d20-436c-8525-4d056c1d9bc7 owned by null
+[07:05:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID e6888e6f-c307-41cd-87d0-c31424b0c06f owned by null
+[07:05:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Aglo with UUID b6540dc1-8ba3-4800-9537-c1c50ba56935 owned by null
+[07:05:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Evni with UUID 561b364c-ae6a-4550-8d10-f0bd0267ae7c owned by null
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -84] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -83] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -82] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -81] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -83] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -83] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -82] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -82] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -81] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -81] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -80] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -80] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-19, -79] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -79] in dimension 0 (overworld) while populating chunk [-17, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -81] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -80] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -80] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -79] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:02] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -79] in dimension 0 (overworld) while populating chunk [-15, -81], causing cascading worldgen lag.
+[07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:05:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 62ec08c1-382b-4b4a-bdb4-65649b31bb30 owned by null
+[07:05:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID fd7a1f7a-c10c-41d1-a5be-27125ffbadb8 owned by null
