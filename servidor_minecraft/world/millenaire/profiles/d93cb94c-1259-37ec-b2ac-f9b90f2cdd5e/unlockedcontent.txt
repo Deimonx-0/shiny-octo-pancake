@@ -1,4 +1,3 @@
-village:indian_indian_agricole
+villager:byzantines_oldshepherd_byzantine
 village:byzantines_lonesheepfarm_x
-building:indian_borderpost_corner
 building:byzantines_oldsheepfarm

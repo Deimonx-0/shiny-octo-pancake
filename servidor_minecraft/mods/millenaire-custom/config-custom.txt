@@ -21,9 +21,29 @@ ignore_resource_cost=false
 random_uid=3981287375602637824
 
 //Advancement completed for anonymous statistics
-advancements_creative=
+advancements_creative=explorer,marcopolo
 
 //Advancement completed for anonymous statistics
-advancements_survival=
+advancements_survival=firstcontact,explorer
 
-validation=346190835
+
+
+//Aprendizaje del Libro de Viajes; Si las descripciones de aldeanos, edificios, etc, son reveladas en el Libro de Viajes solo después de descubrir el artículo en cuestión o no.
+travel_book_learning=true
+
+//Generar información de ayuda; Genera varia información (lista de colores, lista de bienes, info en metas genéricas) útil para creadores de contenido
+generate_help_data=false
+
+//config.ignore_resource_cost.label; config.ignore_resource_cost.desc:
+ignore_resource_cost=false
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=3981287375602637824
+
+//Advancement completed for anonymous statistics
+advancements_creative=explorer,marcopolo
+
+//Advancement completed for anonymous statistics
+advancements_survival=firstcontact,explorer
+
+validation=346190984

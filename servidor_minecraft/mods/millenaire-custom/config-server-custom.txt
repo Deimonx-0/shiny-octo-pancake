@@ -38,7 +38,7 @@ villagers_names_distance=12
 language_learning=true
 
 //Unique random identifier to count unique players if statistics are enabled
-random_uid=981750971599536128
+random_uid=269728091124101120
 
 //Advancement completed for anonymous statistics
 advancements_creative=

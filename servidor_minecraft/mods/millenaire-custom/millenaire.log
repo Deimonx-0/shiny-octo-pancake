@@ -4,3 +4,47 @@
 8.1.1 19-08-2025 22:50:52 Starting new session. Mods: examplemod 
 8.1.1 19-08-2025 22:51:24 MAJOR: null: Loading language: es_mx
 8.1.1 19-08-2025 22:51:25 MAJOR: null: LanguageData loaded: es_mx. Wand invitem name: Wand of Summoning
+8.1.1 19-08-2025 23:09:49 Starting new session. Mods: examplemod 
+8.1.1 19-08-2025 23:10:23 MAJOR: null: Loading language: es_mx
+8.1.1 19-08-2025 23:10:23 MAJOR: null: LanguageData loaded: es_mx. Wand invitem name: Wand of Summoning
+8.1.1 19-08-2025 23:21:22 MAJOR: null: Loading language: es_es
+8.1.1 19-08-2025 23:21:22 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 00:48:39 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 00:49:19 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 00:49:20 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 13:58:06 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 13:58:54 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 13:58:56 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 14:57:26 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 14:58:11 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 14:58:11 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 18:57:03 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 18:57:54 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 18:57:56 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 19:38:24 Exception when finding JPS path:
+8.1.1 20-08-2025 19:38:24 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at 902/2091.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:441)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2347)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+8.1.1 20-08-2025 22:05:09 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 22:05:54 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 22:05:54 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 22:13:40 Starting new session. Mods: examplemod 
+8.1.1 20-08-2025 22:14:27 MAJOR: null: Loading language: es_es
+8.1.1 20-08-2025 22:14:28 MAJOR: null: LanguageData loaded: es_es. Wand invitem name: Varita de Invocación
+8.1.1 20-08-2025 22:29:48 MAJOR: null: Loading language: es_mx
+8.1.1 20-08-2025 22:29:48 MAJOR: null: LanguageData loaded: es_mx. Wand invitem name: Wand of Summoning

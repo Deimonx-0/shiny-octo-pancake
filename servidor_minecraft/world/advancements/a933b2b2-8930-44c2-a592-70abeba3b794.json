@@ -1,19 +1,19 @@
 {
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-08-19 22:55:17 -0500"
+      "tick": "2025-08-20 23:36:30 -0500"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "chaparral": "2025-08-19 22:55:17 -0500"
+      "meadow": "2025-08-20 23:36:27 -0500"
     },
     "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-08-19 22:55:17 -0500"
+      "custom_test_name": "2025-08-20 23:36:30 -0500"
     },
     "done": true
   }
