@@ -1782,3 +1782,94 @@
 [07:05:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [07:05:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 62ec08c1-382b-4b4a-bdb4-65649b31bb30 owned by null
 [07:05:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID fd7a1f7a-c10c-41d1-a5be-27125ffbadb8 owned by null
+[07:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Set own game mode to Survival Mode]
+[07:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:11:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-30, -49] in dimension 0 (overworld) while populating chunk [-29, -48], causing cascading worldgen lag.
+[07:11:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:11:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-31, -36] in dimension 0 (overworld) while populating chunk [-30, -36], causing cascading worldgen lag.
+[07:11:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:990)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[07:11:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[07:12:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -40] in dimension 0 (overworld) while populating chunk [-34, -39], causing cascading worldgen lag.
+[07:12:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -39] in dimension 0 (overworld) while populating chunk [-34, -39], causing cascading worldgen lag.
+[07:12:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-36, -43] in dimension 0 (overworld) while populating chunk [-35, -43], causing cascading worldgen lag.
+[07:12:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, -43] in dimension 0 (overworld) while populating chunk [-35, -43], causing cascading worldgen lag.
+[07:12:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:04] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [-35, -50] in dimension 0 (overworld) while populating chunk [-35, -49], causing cascading worldgen lag.
+[07:12:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:04] [Server thread/WARN] [FML]: Millenaire loaded a new chunk [-35, -51] in dimension 0 (overworld) while populating chunk [-35, -49], causing cascading worldgen lag.
+[07:12:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:12:04] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:12:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, -37] in dimension 0 (overworld) while populating chunk [-36, -36], causing cascading worldgen lag.
+[07:12:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, -36] in dimension 0 (overworld) while populating chunk [-36, -36], causing cascading worldgen lag.
+[07:12:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:11] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-32, -31] in dimension 0 (overworld) while populating chunk [-33, -31], causing cascading worldgen lag.
+[07:12:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:999)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[07:12:27] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[07:12:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, -21] in dimension 0 (overworld) while populating chunk [-27, -21], causing cascading worldgen lag.
+[07:12:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -21] in dimension 0 (overworld) while populating chunk [-27, -21], causing cascading worldgen lag.
+[07:12:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:12:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:12:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:12:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:12:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:12:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:12:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:12:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:12:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[07:12:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[07:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 62ec08c1-382b-4b4a-bdb4-65649b31bb30 owned by null
+[07:13:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID fd7a1f7a-c10c-41d1-a5be-27125ffbadb8 owned by null
+[07:13:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID e2615bfe-14f6-4739-9bfb-045c43622126 owned by null
+[07:13:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 4026ca91-7ed2-4ea7-b573-3266acac093e owned by null
+[07:13:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 566bc0de-b9ea-45ec-8422-a52979d096d4 owned by null
+[07:13:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoblo with UUID 81e8da0a-4e95-4bf5-a22c-2c8fd1d64d27 owned by null

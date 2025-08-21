@@ -692,6 +692,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2025-08-21 06:47:31 +0000",
+      "coral_reef": "2025-08-21 07:13:16 +0000",
       "snowy_forest": "2025-08-21 05:53:07 +0000",
       "kelp_forest": "2025-08-21 06:11:55 +0000",
       "meadow": "2025-08-21 04:38:50 +0000",
@@ -726,6 +727,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2025-08-21 05:53:47 +0000",
+      "deep_ocean": "2025-08-21 07:12:08 +0000",
       "taiga": "2025-08-21 05:45:49 +0000",
       "ocean": "2025-08-21 04:56:19 +0000",
       "extreme_hills": "2025-08-21 04:52:30 +0000",
