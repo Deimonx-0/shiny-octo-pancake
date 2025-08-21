@@ -1,7 +1,13 @@
 villager:byzantines_oldshepherd_byzantine
+villager:norman_lonewife
+villager:norman_lonemiller
+village:norman_lonemill
 village:byzantines_lonesheepfarm_x
+building:norman_lonemill
 building:byzantines_oldsheepfarm
 tradegood:byzantines_wood_pine
+tradegood:norman_wood_pine
 tradegood:byzantines_wool_white
 tradegood:byzantines_gold
 tradegood:byzantines_wood_acacia
+tradegood:norman_bread

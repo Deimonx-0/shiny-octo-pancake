@@ -9,12 +9,21 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-273 47 -582 -268 51 -565 Ship.tml
+-229 55 -754 -193 66 -745 Ship2.tml
+-219 36 -416 -214 43 -387 Ship3.tml
+-193 66 -840 -192 68 -839 BuriedChest.tml
+-109 44 -434 -73 55 -425 Ship2.tml
+-75 33 -253 -62 42 -240 OceanVolcanicVent.tml
+-8 69 -686 6 75 -675 Barn.tml
 0 47 -340 17 51 -335 Ship.tml
 12 52 -256 35 52 -233 OilSlick.tml
 32 54 -258 55 54 -235 OilSlick.tml
 34 35 -5 38 37 -1 OceanGoldOreOutcrop.tml
 65 69 -538 105 77 -500 FallenPlane.tml
+99 70 -667 125 103 -647 AdvancedUndergroundHouse.tml
 101 57 -108 137 68 -99 Ship2.tml
+119 48 -892 142 48 -869 OilSlick.tml
 124 49 -269 131 57 -215 Ship5.tml
 131 35 28 176 43 35 Ship4.tml
 204 85 -509 227 113 -486 CoolingTower.tml
