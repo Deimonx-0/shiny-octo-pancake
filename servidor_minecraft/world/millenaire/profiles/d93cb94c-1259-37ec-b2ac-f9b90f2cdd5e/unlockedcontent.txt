@@ -39,6 +39,7 @@ village:inuits_religiousvillage
 village:byzantines_ancienttemple
 village:seljuk_agriculture_small_seljuks
 village:norman_lonemill
+village:byzantines_militaryvillage
 village:byzantines_lonesheepfarm
 village:byzantines_lonesheepfarm_x
 village:indian_loneshrine
@@ -53,7 +54,9 @@ building:seljuk_sheepfarm
 building:inuits_lake
 building:byzantines_acaciagrovesmall
 building:seljuk_borderpost
+building:byzantines_workshop
 building:byzantines_wheatfield
+building:byzantines_smelter
 building:seljuk_wheatpaddy
 building:inuits_lake_A_fisherman
 building:japanese_borderpost_gate
@@ -68,6 +71,7 @@ building:seljuk_lumbermanshouse
 building:inuits_lumberman
 building:byzantines_oldsheepfarm
 building:byzantines_borderpost_gate
+building:byzantines_windmill
 building:seljuk_hamlettownhall
 building:indian_loneshrine
 building:byzantines_cross
@@ -80,5 +84,6 @@ building:japanese_japanesefarm
 building:seljuk_borderpost_gate
 building:inuits_shamanistic
 building:byzantines_sheepranch
+building:byzantines_borderpost_corner
 building:byzantines_church
 building:inuits_borderpost_gate

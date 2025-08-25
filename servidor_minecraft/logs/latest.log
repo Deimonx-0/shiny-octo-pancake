@@ -3196,3 +3196,85 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 3
 [07:35:46] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
 [07:35:51] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
 [07:35:56] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[07:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Steak] * 64 to Deimonxm]
+[07:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Steak] * 64 to Deimonxm]
+[07:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Steak] * 64 to Deimonxm]
+[07:37:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [77, 2] in dimension 0 (overworld) while populating chunk [78, 2], causing cascading worldgen lag.
+[07:37:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [76, 2] in dimension 0 (overworld) while populating chunk [78, 2], causing cascading worldgen lag.
+[07:37:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [76, 3] in dimension 0 (overworld) while populating chunk [78, 2], causing cascading worldgen lag.
+[07:37:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:37:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [76, 4] in dimension 0 (overworld) while populating chunk [78, 2], causing cascading worldgen lag.
+[07:37:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [82, 4] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [81, 4] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [82, 5] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [81, 5] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [82, 6] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [81, 6] in dimension 0 (overworld) while populating chunk [83, 6], causing cascading worldgen lag.
+[07:39:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:39:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:39:31] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:39:52] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [80, 6] in dimension 0 (overworld) while populating chunk [80, 7], causing cascading worldgen lag.
+[07:39:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:40:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Goblin
+[07:40:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[07:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:43:11] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [81, 16] in dimension 0 (overworld) while populating chunk [84, 15], causing cascading worldgen lag.
+[07:43:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:43:11] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [82, 16] in dimension 0 (overworld) while populating chunk [84, 15], causing cascading worldgen lag.
+[07:43:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:44:07] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [95, 14] in dimension 0 (overworld) while populating chunk [95, 15], causing cascading worldgen lag.
+[07:44:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Valkyrie
+[07:44:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[07:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 058d19e2-8bb2-427f-aace-72a2ddd3500e owned by null
+[07:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 2af14f26-69ec-48c0-95d6-bdb756f913d9 owned by null
+[07:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d876cc7-efef-4099-bf24-a76007b5c694 owned by null
+[07:44:45] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 973bf0f8-03fb-40ed-8c56-40de311bdc67 owned by null
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 1] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 2] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 3] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 4] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 5] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [67, 6] in dimension 0 (overworld) while populating chunk [71, 4], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [70, 12] in dimension 0 (overworld) while populating chunk [71, 12], causing cascading worldgen lag.
+[07:45:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[07:47:06] [Server thread/WARN] [FML]: Dynamic Trees loaded a new chunk [68, -3] in dimension 0 (overworld) while populating chunk [68, -2], causing cascading worldgen lag.
+[07:47:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:48:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [89, 17] in dimension 0 (overworld) while populating chunk [80, 18], causing cascading worldgen lag.
+[07:48:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:49:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! 1.4148073018661762,-0.07840000152587834,10.16428887939685
+[07:49:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3355ms behind, skipping 67 tick(s)
+[07:49:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [66, 18] in dimension 0 (overworld) while populating chunk [67, 18], causing cascading worldgen lag.
+[07:49:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:50:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:50:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:52:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Diamonds!]
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598

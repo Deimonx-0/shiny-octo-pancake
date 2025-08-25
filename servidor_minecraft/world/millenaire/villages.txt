@@ -3,3 +3,4 @@ Iwate;726/80/-378;gunji;japanese;
 Hagia Barbara;1394/67/-182;religiousvillage;byzantines;
 Bayat-Ormanda;1823/75/-593;agriculture_small_seljuks;seljuk;
 Hualapai;2268/71/-115;communityvillage;inuits;
+Kydonia;1345/73/460;militaryvillage;byzantines;

@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-08-25 06:20:23 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-08-21 04:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
@@ -472,9 +484,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-08-25 07:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-21 05:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
@@ -483,6 +507,7 @@
       "shrubland": "2025-08-25 05:52:33 +0000",
       "steppe": "2025-08-25 07:26:50 +0000",
       "cold_desert": "2025-08-21 06:47:33 +0000",
+      "mountain_foothills": "2025-08-25 07:42:40 +0000",
       "maple_woods": "2025-08-25 04:44:09 +0000",
       "coral_reef": "2025-08-21 07:13:17 +0000",
       "shield": "2025-08-25 04:45:26 +0000",
@@ -537,6 +562,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-25 04:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
@@ -614,6 +645,7 @@
   },
   "ebwizardry:all_artefacts": {
     "criteria": {
+      "ring_seeking": "2025-08-25 07:50:24 +0000",
       "charm_silk_touch": "2025-08-25 06:51:01 +0000"
     },
     "done": false
@@ -678,6 +710,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2025-08-21 04:39:14 +0000"
@@ -706,10 +750,17 @@
     "criteria": {
       "skeleton": "2025-08-21 06:42:44 +0000",
       "zombie": "2025-08-21 06:35:16 +0000",
+      "silverfish": "2025-08-25 07:47:20 +0000",
       "witch": "2025-08-25 07:21:28 +0000",
       "spider": "2025-08-21 05:14:13 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -777,9 +828,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-25 07:52:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-21 05:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
@@ -810,6 +873,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-21 07:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-08-25 07:52:06 +0000"
     },
     "done": true
   },
@@ -852,6 +921,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-08-25 06:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
@@ -1422,6 +1497,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-21 07:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-25 07:52:16 +0000"
     },
     "done": true
   },
