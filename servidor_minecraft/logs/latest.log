@@ -3278,3 +3278,57 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 3
 [07:52:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Diamonds!]
 [07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
 [07:52:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[07:59:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [97, 36] in dimension 0 (overworld) while populating chunk [97, 35], causing cascading worldgen lag.
+[07:59:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:00:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:00:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:00:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:00:01] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:00:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[08:01:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:01:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:01:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:01:20] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:03:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:03:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:03:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:03:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:03:55] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[08:03:55] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ca341b1)
+[08:03:55] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[08:03:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3194ms behind, skipping 63 tick(s)
+[08:03:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! -9.88849877815369,-2.121296840539202,-0.8716689780239903
+[08:03:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:04:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Luna's rod] * 1 to Deimonxm]
+[08:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:04:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:04:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:04:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:04:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:04:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:05:13] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[08:05:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ca341b1)
+[08:05:13] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[08:05:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[08:05:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID edebd714-c62a-4280-b44e-be2698e1afad owned by null
+[08:05:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 60ee48c8-0535-49af-a75c-fdc18ee28450 owned by null
+[08:05:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 2683998b-0bc4-47e6-aed2-a9f7054b846b owned by null
+[08:05:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c368417c-69fb-4b13-9017-b9106e08a7b5 owned by null
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [95, 18] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [95, 17] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [96, 18] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [96, 17] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [97, 18] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [97, 17] in dimension 0 (overworld) while populating chunk [98, 20], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [94, 18] in dimension 0 (overworld) while populating chunk [97, 17], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[08:06:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [94, 17] in dimension 0 (overworld) while populating chunk [97, 17], causing cascading worldgen lag.
+[08:06:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

@@ -315,6 +315,7 @@
       "porkchop": "2025-08-21 05:30:48 +0000",
       "apple": "2025-08-21 05:09:27 +0000",
       "potato": "2025-08-25 04:48:10 +0000",
+      "mutton": "2025-08-25 07:59:30 +0000",
       "bread": "2025-08-21 04:50:55 +0000",
       "cooked_rabbit": "2025-08-25 04:36:34 +0000",
       "cooked_chicken": "2025-08-21 07:18:48 +0000",
@@ -513,6 +514,7 @@
       "shield": "2025-08-25 04:45:26 +0000",
       "boreal_forest": "2025-08-25 04:46:11 +0000",
       "snowy_forest": "2025-08-21 06:46:58 +0000",
+      "seasonal_forest": "2025-08-25 07:59:21 +0000",
       "kelp_forest": "2025-08-21 06:11:55 +0000",
       "pasture": "2025-08-25 06:48:11 +0000",
       "meadow": "2025-08-21 04:39:14 +0000",
@@ -996,6 +998,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-08-25 08:01:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-08-21 05:01:20 +0000"
@@ -1413,6 +1421,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-25 05:57:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-08-25 08:00:55 +0000"
     },
     "done": true
   },
