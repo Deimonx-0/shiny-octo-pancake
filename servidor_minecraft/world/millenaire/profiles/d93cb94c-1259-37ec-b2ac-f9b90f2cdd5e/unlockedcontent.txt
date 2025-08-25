@@ -7,6 +7,7 @@ villager:japanese_japanese_farmer
 villager:norman_lonewife
 villager:inuits_inuit_wife
 villager:norman_lonemiller
+villager:japanese_japanese_merchant
 villager:japanese_japanese_peasantwife
 villager:japanese_japanese_peasant
 village:japanese_gunji
@@ -25,5 +26,6 @@ building:norman_lonemill
 building:inuits_lake_A_fisherman
 building:inuits_borderpost_corner
 building:japanese_japanesefarm
+building:japanese_borderpost_gate
 building:inuits_shamanistic
 building:inuits_borderpost_gate

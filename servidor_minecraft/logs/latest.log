@@ -1072,3 +1072,47 @@
 [04:46:43] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
 [04:47:05] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [36, -40] in dimension 0 (overworld) while populating chunk [37, -40], causing cascading worldgen lag.
 [04:47:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:56:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [32, -37] in dimension 0 (overworld) while populating chunk [33, -36], causing cascading worldgen lag.
+[04:56:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:57:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Arrow] * 64 to Deimonxm]
+[04:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was killed by magic
+[04:57:24] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[04:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[04:59:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [34, -41] in dimension 0 (overworld) while populating chunk [35, -41], causing cascading worldgen lag.
+[04:59:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:17] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [58, -44] in dimension 0 (overworld) while populating chunk [58, -43], causing cascading worldgen lag.
+[05:00:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [56, -46] in dimension 0 (overworld) while populating chunk [57, -45], causing cascading worldgen lag.
+[05:00:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [57, -46] in dimension 0 (overworld) while populating chunk [57, -45], causing cascading worldgen lag.
+[05:00:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [51, -46] in dimension 0 (overworld) while populating chunk [50, -46], causing cascading worldgen lag.
+[05:00:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:20] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [30, -45] in dimension 0 (overworld) while populating chunk [31, -45], causing cascading worldgen lag.
+[05:01:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [28, -43] in dimension 0 (overworld) while populating chunk [29, -43], causing cascading worldgen lag.
+[05:01:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -43] in dimension 0 (overworld) while populating chunk [29, -43], causing cascading worldgen lag.
+[05:01:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -44] in dimension 0 (overworld) while populating chunk [28, -44], causing cascading worldgen lag.
+[05:01:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -46] in dimension 0 (overworld) while populating chunk [28, -46], causing cascading worldgen lag.
+[05:01:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [28, -47] in dimension 0 (overworld) while populating chunk [28, -46], causing cascading worldgen lag.
+[05:01:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [27, -47] in dimension 0 (overworld) while populating chunk [28, -46], causing cascading worldgen lag.
+[05:01:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:39] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [24, -46] in dimension 0 (overworld) while populating chunk [25, -45], causing cascading worldgen lag.
+[05:01:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:39] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [23, -46] in dimension 0 (overworld) while populating chunk [25, -45], causing cascading worldgen lag.
+[05:01:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [20, -53] in dimension 0 (overworld) while populating chunk [21, -51], causing cascading worldgen lag.
+[05:02:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [20, -52] in dimension 0 (overworld) while populating chunk [21, -51], causing cascading worldgen lag.
+[05:02:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [20, -51] in dimension 0 (overworld) while populating chunk [21, -51], causing cascading worldgen lag.
+[05:02:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [20, -39] in dimension 0 (overworld) while populating chunk [20, -38], causing cascading worldgen lag.
+[05:02:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [19, -39] in dimension 0 (overworld) while populating chunk [20, -38], causing cascading worldgen lag.
+[05:02:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
