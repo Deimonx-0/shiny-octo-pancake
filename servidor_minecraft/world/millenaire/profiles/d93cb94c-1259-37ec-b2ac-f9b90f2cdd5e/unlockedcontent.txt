@@ -11,6 +11,7 @@ villager:norman_lonewife
 villager:inuits_inuit_wife
 villager:japanese_japanese_peasantwife
 villager:japanese_japanese_peasant
+village:byzantines_religiousvillage
 village:japanese_gunji
 village:inuits_religiousvillage
 village:norman_lonemill
@@ -31,4 +32,5 @@ building:japanese_japanesefarm
 building:japanese_borderpost_gate
 building:inuits_shamanistic
 building:byzantines_sheepranch
+building:byzantines_church
 building:inuits_borderpost_gate

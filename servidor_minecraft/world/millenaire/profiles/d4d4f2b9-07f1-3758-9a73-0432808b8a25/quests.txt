@@ -1,2 +1,0 @@
-quest:fishingfrenzy;step:0;startTime:248000;currentStepStartTime:248000;villager:startvillager,7024491861849093444,726/80/-378;villager:wife,7082406108093821135,726/80/-378
-quest:startingtrader;step:0;startTime:249000;currentStepStartTime:249000;villager:startvillager,6861187363805201320,726/80/-378

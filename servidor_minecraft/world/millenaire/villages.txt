@@ -1,2 +1,3 @@
 Karok;-63/68/-1042;religiousvillage;inuits;
 Iwate;726/80/-378;gunji;japanese;
+Hagia Barbara;1394/67/-182;religiousvillage;byzantines;
