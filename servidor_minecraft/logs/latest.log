@@ -2921,3 +2921,11 @@
 [06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
 [06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
 [06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:56:44] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [146, -19] in dimension 0 (overworld) while populating chunk [146, -20], causing cascading worldgen lag.
+[06:56:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:57:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:57:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:59:19] [Server thread/WARN] [FML]: Fapcraft loaded a new chunk [132, -15] in dimension 0 (overworld) while populating chunk [133, -14], causing cascading worldgen lag.
+[06:59:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:00:07] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:00:07] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml

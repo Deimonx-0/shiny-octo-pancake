@@ -122,4 +122,7 @@
 2117 68 -417 2128 87 -410 AdvancedShelter.tml
 2137 70 -661 2138 72 -660 BuriedChest.tml
 2150 64 -505 2162 70 -491 ThrownHouse1.tml
+2251 69 -157 2252 71 -156 BuriedChest.tml
 2300 63 -467 2309 68 -456 ThrownHouse3.tml
+2342 64 -311 2353 68 -302 SolarPanel.tml
+2441 58 -530 2452 72 -519 DwarfBase.tml
