@@ -456,3 +456,67 @@
 [04:11:30] [Server thread/INFO] [FML]: Unloading dimension -1
 [04:11:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved too quickly! 229.6141960059182,28.0,-279.5539946424643
 [04:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[04:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Harpy
+[04:14:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[04:14:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:14:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:14:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:14:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:14:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[04:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[04:15:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was shot by Minotaurus
+[04:15:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[04:15:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:15:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:15:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:15:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[04:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was killed by magic
+[04:15:13] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[04:15:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:15:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:15:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:15:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:15:13] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:15:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ca341b1)
+[04:15:14] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:15:16] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[04:15:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[04:15:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[04:15:48] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[04:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was shot by Minotaurus
+[04:16:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[04:16:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:16:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:16:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:16:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[04:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was shot by Minotaurus
+[04:17:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[04:17:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:17:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:17:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:17:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[04:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was shot by Minotaurus
+[04:17:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[04:17:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:17:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:17:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:17:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[04:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was shot by Minotaurus
+[04:17:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[04:17:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 5316b71a-0d65-456c-9b63-9792797f35a7 owned by null
+[04:17:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Givlu with UUID 7cedb9ee-2223-476a-8eb8-1fec84114ca8 owned by null
+[04:17:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID ac85e64b-503f-4e88-b19e-e5b7084fd905 owned by null
+[04:17:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 2bdc24f8-f5b0-4816-b2fa-6051426a87bb owned by null
+[04:17:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[04:18:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[04:19:35] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[04:19:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7ca341b1)
+[04:19:36] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[04:19:37] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:23:11] [Server thread/INFO] [mca]: Villager death: Archie. Caused by: Troll. UUID: c9da75fb-48b5-4994-8650-29a19be2634f
+[04:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
