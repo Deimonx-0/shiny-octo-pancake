@@ -12,5 +12,6 @@ village_reputations=1041/67/-412,10
 village_reputations=1394/67/-182,3
 village_diplomacy=726/80/-378,5
 village_diplomacy=1823/75/-593,5
+village_diplomacy=2268/71/-115,5
 village_diplomacy=1394/67/-182,5
 village_diplomacy=-63/68/-1042,5

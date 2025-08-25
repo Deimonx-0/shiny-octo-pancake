@@ -43,6 +43,7 @@ village:byzantines_lonesheepfarm_x
 village:inuits_communityvillage
 village:indian_loneshrine
 building:seljuk_hamlettownhall_A_inn
+building:inuits_borderpost
 building:japanese_japanesefort
 building:seljuk_smallmosque_a_female
 building:inuits_flower

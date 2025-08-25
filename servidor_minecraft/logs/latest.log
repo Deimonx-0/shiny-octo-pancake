@@ -3058,3 +3058,82 @@
 [07:14:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
 [07:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was killed by magic
 [07:14:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [123, -4] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [124, -3] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [125, -4] in dimension 0 (overworld) while populating chunk [124, -3], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [124, -4] in dimension 0 (overworld) while populating chunk [124, -3], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [123, -3] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [124, -2] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [123, -2] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [123, -1] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [123, 0] in dimension 0 (overworld) while populating chunk [125, -2], causing cascading worldgen lag.
+[07:16:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:44] [Server thread/ERROR] [FML]: An Entity sexmod:goblin(Goblin) has thrown an exception during loading, its state cannot be restored. Report this to the mod author
+net.minecraft.util.ReportedException: Loading entity NBT
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1878) ~[vg.class:?]
+	at net.minecraft.entity.EntityList.func_75615_a(EntityList.java:221) [vi.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186053_a(AnvilChunkLoader.java:602) [aye.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186054_a(AnvilChunkLoader.java:561) [aye.class:?]
+	at net.minecraft.command.server.CommandSummon.func_184881_a(SourceFile:87) [ds.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 3
+	at com.trolmastercard.sexmod.e3.func_70037_a(e3.java) ~[e3.class:1.1]
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1866) ~[vg.class:?]
+	... 19 more
+[07:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Object successfully summoned]
+[07:20:52] [Server thread/ERROR] [FML]: An Entity sexmod:goblin(Goblin) has thrown an exception during loading, its state cannot be restored. Report this to the mod author
+net.minecraft.util.ReportedException: Loading entity NBT
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1878) ~[vg.class:?]
+	at net.minecraft.entity.EntityList.func_75615_a(EntityList.java:221) [vi.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186053_a(AnvilChunkLoader.java:602) [aye.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_186054_a(AnvilChunkLoader.java:561) [aye.class:?]
+	at net.minecraft.command.server.CommandSummon.func_184881_a(SourceFile:87) [ds.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 3
+	at com.trolmastercard.sexmod.e3.func_70037_a(e3.java) ~[e3.class:1.1]
+	at net.minecraft.entity.Entity.func_70020_e(Entity.java:1866) ~[vg.class:?]
+	... 19 more
+[07:22:40] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:22:40] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[07:24:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [112, 8] in dimension 0 (overworld) while populating chunk [113, 9], causing cascading worldgen lag.
+[07:24:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [110, -1] in dimension 0 (overworld) while populating chunk [111, 0], causing cascading worldgen lag.
+[07:24:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:25:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [118, -13] in dimension 0 (overworld) while populating chunk [119, -12], causing cascading worldgen lag.
+[07:25:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
