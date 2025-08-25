@@ -38,12 +38,14 @@
 32 54 -258 55 54 -235 OilSlick.tml
 34 35 -5 38 37 -1 OceanGoldOreOutcrop.tml
 65 69 -538 105 77 -500 FallenPlane.tml
+89 43 115 93 45 119 OceanEmeraldOreOutcrop.tml
 99 70 -667 125 103 -647 AdvancedUndergroundHouse.tml
 101 57 -108 137 68 -99 Ship2.tml
 102 49 -1112 119 53 -1107 Ship.tml
 119 48 -892 142 48 -869 OilSlick.tml
 124 49 -269 131 57 -215 Ship5.tml
 131 35 28 176 43 35 Ship4.tml
+182 48 100 205 48 123 OilSlick.tml
 204 85 -509 227 113 -486 CoolingTower.tml
 212 33 -900 216 35 -896 OceanGoldOreOutcrop.tml
 233 48 -816 262 55 -811 Ship3.tml
@@ -58,3 +60,6 @@
 400 49 -7 407 57 47 Ship5.tml
 419 71 -537 431 98 -518 Tanks.tml
 428 69 -514 440 86 -495 Airfield.tml
+495 52 -156 531 63 -147 Ship2.tml
+503 38 -2 507 40 2 OceanGoldOreOutcrop.tml
+565 50 -245 610 58 -238 Ship4.tml
