@@ -1739,3 +1739,105 @@
 [05:43:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -25] in dimension 0 (overworld) while populating chunk [61, -25], causing cascading worldgen lag.
 [05:43:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [05:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Arrow] * 64 to Deimonxm]
+[05:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Sea of Monsters]
+[05:45:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Shark
+[05:46:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[05:49:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[05:49:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[05:49:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[05:49:11] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[05:50:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved too quickly! -8.074002598881862,0.16080544191486013,6.3845802195943975
+[05:51:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[05:51:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[05:51:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[05:51:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[05:52:22] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [80, -32] in dimension 0 (overworld) while populating chunk [79, -32], causing cascading worldgen lag.
+[05:52:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:52:23] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: Barn.tml
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -14] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -14] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -12] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -12] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -13] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -13] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -11] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -11] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -10] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [60, -9] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -10] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [61, -9] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [62, -10] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [62, -9] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [63, -10] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:53:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [63, -9] in dimension 0 (overworld) while populating chunk [63, -11], causing cascading worldgen lag.
+[05:53:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

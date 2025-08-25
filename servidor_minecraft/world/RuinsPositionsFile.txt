@@ -90,4 +90,7 @@
 1000 49 -607 1005 53 -590 Ship.tml
 1081 51 -384 1110 58 -379 Ship3.tml
 1081 41 -493 1085 43 -489 OceanEmeraldOreOutcrop.tml
+1122 66 -177 1137 127 -162 CellTower.tml
 1131 35 -601 1135 37 -597 OceanGoldOreOutcrop.tml
+1262 67 -286 1273 73 -272 Barn.tml
+1342 46 -479 1359 50 -474 Ship.tml
