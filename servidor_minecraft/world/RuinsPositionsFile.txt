@@ -104,6 +104,7 @@
 1414 40 -393 1418 42 -389 OceanEmeraldOreOutcrop.tml
 1480 48 -533 1503 48 -510 OilSlick.tml
 1488 68 -107 1511 106 -86 Locator.tml
+1520 72 76 1568 89 124 UndergroundLab.tml
 1531 68 -252 1544 93 -205 GantryCrane.tml
 1558 67 -319 1559 69 -318 BuriedChest.tml
 1624 35 -783 1628 37 -779 OceanGoldOreOutcrop.tml

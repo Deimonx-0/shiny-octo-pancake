@@ -5,6 +5,7 @@ villager:byzantines_wife_byzantine
 villager:seljuk_turk_girl
 villager:seljuk_turk_localmerchant
 villager:seljuk_turk_peasantwife
+villager:byzantines_farmiller_byzantine
 villager:japanese_japanese_farmer
 villager:byzantines_miner_byzantine
 villager:japanese_japanese_peasantwife
@@ -22,6 +23,7 @@ villager:byzantines_artisanwife_byzantine
 villager:japanese_japanese_samuraigeneral
 villager:seljuk_turk_richpeasantwife
 villager:japanese_japanese_farmwife
+villager:byzantines_girl_byzantine
 villager:inuits_inuit_lumberman
 villager:indian_indian_pandit
 villager:norman_lonewife
@@ -49,7 +51,9 @@ building:japanese_japanesepeasanth
 building:byzantines_mine
 building:seljuk_sheepfarm
 building:inuits_lake
+building:byzantines_acaciagrovesmall
 building:seljuk_borderpost
+building:byzantines_wheatfield
 building:seljuk_wheatpaddy
 building:inuits_lake_A_fisherman
 building:japanese_borderpost_gate
@@ -71,6 +75,7 @@ building:byzantines_farm
 building:byzantines_temple
 building:norman_lonemill
 building:inuits_borderpost_corner
+building:byzantines_sheepfarm
 building:japanese_japanesefarm
 building:seljuk_borderpost_gate
 building:inuits_shamanistic

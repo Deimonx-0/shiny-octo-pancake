@@ -400,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-08-25 07:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2025-08-21 04:44:26 +0000"
@@ -436,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-25 07:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-21 07:22:39 +0000"
@@ -469,6 +481,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-08-25 05:52:33 +0000",
+      "steppe": "2025-08-25 07:26:50 +0000",
       "cold_desert": "2025-08-21 06:47:33 +0000",
       "maple_woods": "2025-08-25 04:44:09 +0000",
       "coral_reef": "2025-08-21 07:13:17 +0000",
@@ -683,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-25 07:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-08-21 06:42:44 +0000",
@@ -809,6 +828,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-08-25 06:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-08-25 07:30:02 +0000"
     },
     "done": true
   },
@@ -1040,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-25 07:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-08-21 07:22:34 +0000"
@@ -1259,6 +1290,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2025-08-25 06:14:52 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-25 07:30:51 +0000"
     },
     "done": true
   },
