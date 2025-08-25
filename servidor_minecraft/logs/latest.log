@@ -1116,3 +1116,15 @@
 [05:02:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [05:02:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [19, -39] in dimension 0 (overworld) while populating chunk [20, -38], causing cascading worldgen lag.
 [05:02:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was crushed by a falling tree
+[05:08:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[05:12:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [They Have a Cave Troll!]
+[05:16:44] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:16:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:16:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:16:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:16:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:18:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[05:23:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[05:23:07] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
