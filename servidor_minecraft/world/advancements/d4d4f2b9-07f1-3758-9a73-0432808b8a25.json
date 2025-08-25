@@ -421,9 +421,11 @@
       "boreal_forest": "2025-08-25 04:46:09 +0000",
       "snowy_forest": "2025-08-21 05:53:07 +0000",
       "kelp_forest": "2025-08-21 06:11:55 +0000",
+      "pasture": "2025-08-25 06:48:00 +0000",
       "meadow": "2025-08-21 04:38:50 +0000",
       "prairie": "2025-08-25 06:26:48 +0000",
-      "gravel_beach": "2025-08-21 04:39:01 +0000"
+      "gravel_beach": "2025-08-21 04:39:01 +0000",
+      "grove": "2025-08-25 06:54:09 +0000"
     },
     "done": false
   },
@@ -541,6 +543,12 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "charm_minion_health": "2025-08-25 06:52:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-08-21 04:42:48 +0000"
@@ -644,6 +652,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-21 05:08:41 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "charm_minion_health": "2025-08-25 06:52:13 +0000"
     },
     "done": true
   },
@@ -893,6 +907,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2025-08-25 06:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 05:04:17 +0000"
@@ -1113,6 +1133,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-21 04:52:29 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-25 06:49:47 +0000"
     },
     "done": true
   },

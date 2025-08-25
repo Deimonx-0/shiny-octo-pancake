@@ -2833,3 +2833,91 @@
 [06:44:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
 [06:44:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
 [06:44:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Arrow] * 64 to Deimonxm]
+[06:47:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Arrow] * 64 to Deimonxm]
+[06:47:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:47:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:47:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:47:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:48:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID 8336f377-0b77-4c15-8ee3-6c926038512f owned by null
+[06:48:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 9ed86d3c-65ee-4c4f-914e-852c45093fb2 owned by null
+[06:48:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32aa9968-33fd-493d-9ae7-374b209a2bcb owned by null
+[06:48:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 9a33172e-ec3d-46d7-ae09-1070167d562d owned by null
+[06:48:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [130, -27] in dimension 0 (overworld) while populating chunk [130, -26], causing cascading worldgen lag.
+[06:48:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:48:06] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [128, -22] in dimension 0 (overworld) while populating chunk [131, -24], causing cascading worldgen lag.
+[06:48:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Dohko598 to Deimonxm]
+[06:48:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Enshrined]
+[06:48:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:48:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Not Today, Thank You]
+[06:48:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Enshrined]
+[06:48:33] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[06:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Righteousness]
+[06:48:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was killed by Wizard using magic
+[06:48:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:49:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:49:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:49:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:49:03] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was killed by Wizard using magic
+[06:49:06] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:49:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snoggi with UUID 8336f377-0b77-4c15-8ee3-6c926038512f owned by null
+[06:49:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zarbu with UUID 9ed86d3c-65ee-4c4f-914e-852c45093fb2 owned by null
+[06:49:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID 32aa9968-33fd-493d-9ae7-374b209a2bcb owned by null
+[06:49:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tuks with UUID 9a33172e-ec3d-46d7-ae09-1070167d562d owned by null
+[06:49:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[06:50:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:50:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:50:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:50:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:50:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:50:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:50:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:50:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:51:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [A Forgotten Relic]
+[06:51:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:51:07] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[06:51:07] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[06:51:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:51:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:51:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:51:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:51:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:52:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [A Forgotten Relic]
+[06:52:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[06:52:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:52:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:52:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:52:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:52:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:52:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:52:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:52:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:53:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:53:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:53:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:53:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:53:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [138, -38] in dimension 0 (overworld) while populating chunk [138, -37], causing cascading worldgen lag.
+[06:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:53:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:53:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:53:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:53:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:54:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:54:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:54:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:54:07] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:54:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:54:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:54:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:54:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null
+[06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID ea751ae4-5c9c-49e6-9601-2454a3e90151 owned by null
+[06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID 34575ebe-aa66-4226-ac9d-5d1e9e60758d owned by null
+[06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guv with UUID 2db2471e-11e7-489f-898b-8676fddb248f owned by null
+[06:54:30] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 96085dc2-49ee-4764-becf-9915168b910c owned by null

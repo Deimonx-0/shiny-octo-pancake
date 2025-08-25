@@ -2,3 +2,4 @@ Apomonomeno Boske Probaton;275/64/-254;lonesheepfarm_x;byzantines;
 Meunier solitaire;-136/67/-694;lonemill;norman;
 Monachikó próvato;1041/67/-412;lonesheepfarm;byzantines;
 Archaíos Naós;1669/75/-318;ancienttemple;byzantines;
+Chota Mandir;2244/68/-500;loneshrine;indian;

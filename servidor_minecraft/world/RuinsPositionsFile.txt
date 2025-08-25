@@ -106,6 +106,7 @@
 1488 68 -107 1511 106 -86 Locator.tml
 1531 68 -252 1544 93 -205 GantryCrane.tml
 1558 67 -319 1559 69 -318 BuriedChest.tml
+1624 35 -783 1628 37 -779 OceanGoldOreOutcrop.tml
 1625 49 -520 1654 56 -515 Ship3.tml
 1641 49 -611 1686 57 -604 Ship4.tml
 1671 63 -261 1682 77 -250 DwarfBase.tml
@@ -118,3 +119,7 @@
 1922 63 -478 1937 73 -447 STP.tml
 1939 74 -632 1947 121 -614 PowerLineSmall.tml
 2025 83 -817 2077 95 -795 UndergroundDungeon.tml
+2117 68 -417 2128 87 -410 AdvancedShelter.tml
+2137 70 -661 2138 72 -660 BuriedChest.tml
+2150 64 -505 2162 70 -491 ThrownHouse1.tml
+2300 63 -467 2309 68 -456 ThrownHouse3.tml

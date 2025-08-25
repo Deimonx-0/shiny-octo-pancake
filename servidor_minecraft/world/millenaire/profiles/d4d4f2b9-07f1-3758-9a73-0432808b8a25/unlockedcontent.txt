@@ -24,6 +24,7 @@ villager:seljuk_turk_richpeasantwife
 villager:japanese_japanese_farmwife
 villager:inuits_inuit_lumberman
 villager:byzantines_lady_byzantine
+villager:indian_indian_pandit
 villager:norman_lonewife
 villager:inuits_inuit_wife
 villager:seljuk_turk_imam
@@ -39,6 +40,7 @@ village:seljuk_agriculture_small_seljuks
 village:norman_lonemill
 village:byzantines_lonesheepfarm
 village:byzantines_lonesheepfarm_x
+village:indian_loneshrine
 building:seljuk_hamlettownhall_A_inn
 building:japanese_japanesefort
 building:seljuk_smallmosque_a_female
@@ -49,6 +51,7 @@ building:seljuk_sheepfarm
 building:inuits_lake
 building:byzantines_architect
 building:byzantines_workshop
+building:seljuk_borderpost
 building:byzantines_smelter
 building:seljuk_wheatpaddy
 building:inuits_lake_A_fisherman
@@ -59,10 +62,12 @@ building:seljuk_imamshouse
 building:seljuk_smallmosque
 building:inuits_animistic
 building:byzantines_sandpit
+building:seljuk_lumbermanshouse
 building:inuits_lumberman
 building:byzantines_oldsheepfarm
 building:byzantines_borderpost_gate
 building:seljuk_hamlettownhall
+building:indian_loneshrine
 building:byzantines_cross
 building:byzantines_farm
 building:byzantines_temple
