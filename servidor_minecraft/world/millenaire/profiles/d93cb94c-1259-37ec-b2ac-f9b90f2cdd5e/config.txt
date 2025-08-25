@@ -1,7 +1,10 @@
 player_name=Dohko598
 donation_mode=false
+culture_reputation=seljuk,-2
 culture_reputation=byzantines,-1
+village_reputations=1823/75/-593,-20
 village_reputations=275/64/-254,-10
 village_diplomacy=726/80/-378,5
+village_diplomacy=1823/75/-593,5
 village_diplomacy=1394/67/-182,5
 village_diplomacy=-63/68/-1042,5
