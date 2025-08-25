@@ -17,6 +17,7 @@
 -425 35 -306 -421 37 -302 OceanGoldOreOutcrop.tml
 -398 64 -851 -388 78 -841 Building6.tml
 -365 33 -629 -361 35 -625 OceanGoldOreOutcrop.tml
+-361 69 -1112 -356 76 -1101 OilPump1.tml
 -351 48 -551 -344 56 -506 Ship4.tml
 -346 50 -732 -317 57 -727 Ship3.tml
 -289 81 -994 -257 97 -987 RotaryExcavator.tml

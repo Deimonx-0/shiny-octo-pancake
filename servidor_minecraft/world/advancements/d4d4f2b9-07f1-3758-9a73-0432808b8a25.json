@@ -415,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-25 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-21 05:04:17 +0000"
@@ -1013,8 +1019,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-08-25 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "magma_cube": "2025-08-25 04:29:50 +0000",
+      "skeleton": "2025-08-25 04:27:53 +0000",
       "zombie": "2025-08-21 07:22:09 +0000"
     },
     "done": false

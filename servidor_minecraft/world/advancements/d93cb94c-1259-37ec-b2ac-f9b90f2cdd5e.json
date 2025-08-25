@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-25 04:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-21 05:44:05 +0000"
@@ -1003,6 +1009,12 @@
       "spider": "2025-08-21 05:14:13 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-25 04:29:34 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
