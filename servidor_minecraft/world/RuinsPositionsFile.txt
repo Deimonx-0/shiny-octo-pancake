@@ -118,10 +118,12 @@
 1899 66 -371 1911 76 -360 Building5.tml
 1922 63 -478 1937 73 -447 STP.tml
 1939 74 -632 1947 121 -614 PowerLineSmall.tml
+2021 64 -167 2031 78 -157 Building6.tml
 2025 83 -817 2077 95 -795 UndergroundDungeon.tml
 2117 68 -417 2128 87 -410 AdvancedShelter.tml
 2137 70 -661 2138 72 -660 BuriedChest.tml
 2150 64 -505 2162 70 -491 ThrownHouse1.tml
+2232 70 41 2246 76 52 Barn.tml
 2251 69 -157 2252 71 -156 BuriedChest.tml
 2300 63 -467 2309 68 -456 ThrownHouse3.tml
 2342 64 -311 2353 68 -302 SolarPanel.tml
