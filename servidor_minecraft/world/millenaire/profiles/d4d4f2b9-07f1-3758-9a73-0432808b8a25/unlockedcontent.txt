@@ -7,6 +7,7 @@ villager:inuits_inuit_shaman
 village:inuits_religiousvillage
 village:norman_lonemill
 village:byzantines_lonesheepfarm_x
+building:inuits_animistic
 building:inuits_flower
 building:norman_lonemill
 building:inuits_lake_A_fisherman

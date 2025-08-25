@@ -107,3 +107,8 @@
 8.1.1 21-08-2025 06:51:09 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2188f910: No TileEntitySign at: -140/68/-692
 8.1.1 21-08-2025 06:51:14 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2188f910: No TileEntitySign at: -140/68/-692
 8.1.1 21-08-2025 06:51:19 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@2188f910: No TileEntitySign at: -140/68/-692
+8.1.1 25-08-2025 04:04:18 Starting new session. Mods: examplemod 
+8.1.1 25-08-2025 04:04:29 MAJOR: null: Loading language: fr
+8.1.1 25-08-2025 04:04:29 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 25-08-2025 04:04:29 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 25-08-2025 04:04:29 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
