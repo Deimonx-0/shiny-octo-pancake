@@ -109,6 +109,7 @@
 1625 49 -520 1654 56 -515 Ship3.tml
 1641 49 -611 1686 57 -604 Ship4.tml
 1671 63 -261 1682 77 -250 DwarfBase.tml
+1704 47 -863 1727 47 -840 OilSlick.tml
 1712 47 -724 1717 51 -707 Ship.tml
 1731 73 -534 1776 99 -484 LaunchSilo.tml
 1752 65 -286 1762 79 -276 Building6.tml
@@ -116,3 +117,4 @@
 1899 66 -371 1911 76 -360 Building5.tml
 1922 63 -478 1937 73 -447 STP.tml
 1939 74 -632 1947 121 -614 PowerLineSmall.tml
+2025 83 -817 2077 95 -795 UndergroundDungeon.tml

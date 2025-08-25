@@ -1,9 +1,11 @@
 player_name=Deimonxm
 donation_mode=false
+culture_reputation=seljuk,-6
 culture_reputation=byzantines,3
 culture_reputation=norman,2
 culture_language=byzantines,27
 culture_language=norman,22
+village_reputations=1823/75/-593,-60
 village_reputations=275/64/-254,19
 village_reputations=-136/67/-694,31
 village_reputations=1041/67/-412,10
