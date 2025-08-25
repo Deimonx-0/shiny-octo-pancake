@@ -6,4 +6,5 @@ culture_language=byzantines,19
 culture_language=norman,22
 village_reputations=275/64/-254,19
 village_reputations=-136/67/-694,31
+village_diplomacy=726/80/-378,5
 village_diplomacy=-63/68/-1042,5

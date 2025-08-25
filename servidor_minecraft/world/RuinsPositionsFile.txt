@@ -63,3 +63,7 @@
 495 52 -156 531 63 -147 Ship2.tml
 503 38 -2 507 40 2 OceanGoldOreOutcrop.tml
 565 50 -245 610 58 -238 Ship4.tml
+627 79 -332 628 81 -331 BuriedChest.tml
+702 49 -562 707 53 -545 Ship.tml
+720 71 -462 734 78 -454 ThrownHouse2.tml
+823 49 -634 868 57 -627 Ship4.tml

@@ -729,7 +729,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2025-08-21 06:47:31 +0000",
+      "maple_woods": "2025-08-25 04:44:16 +0000",
       "coral_reef": "2025-08-21 07:13:16 +0000",
+      "shield": "2025-08-25 04:45:14 +0000",
+      "boreal_forest": "2025-08-25 04:46:09 +0000",
       "snowy_forest": "2025-08-21 05:53:07 +0000",
       "kelp_forest": "2025-08-21 06:11:55 +0000",
       "meadow": "2025-08-21 04:38:50 +0000",
