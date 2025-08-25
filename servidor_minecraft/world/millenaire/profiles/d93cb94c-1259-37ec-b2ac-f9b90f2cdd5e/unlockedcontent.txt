@@ -21,6 +21,7 @@ villager:japanese_japanese_peasant
 village:byzantines_religiousvillage
 village:japanese_gunji
 village:inuits_religiousvillage
+village:byzantines_ancienttemple
 village:norman_lonemill
 village:byzantines_lonesheepfarm
 village:byzantines_lonesheepfarm_x
@@ -37,6 +38,7 @@ building:byzantines_borderpost_gate
 building:inuits_lake
 building:byzantines_cross
 building:byzantines_farm
+building:byzantines_temple
 building:norman_lonemill
 building:inuits_lake_A_fisherman
 building:inuits_borderpost_corner

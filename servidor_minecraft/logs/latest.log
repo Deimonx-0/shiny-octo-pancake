@@ -2403,3 +2403,320 @@
 [06:14:14] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [101, -1] in dimension 0 (overworld) while populating chunk [103, -1], causing cascading worldgen lag.
 [06:14:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [06:14:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Given [Arrow] * 64 to Deimonxm]
+[06:15:29] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:17:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [101, -31] in dimension 0 (overworld) while populating chunk [101, -30], causing cascading worldgen lag.
+[06:17:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [100, -31] in dimension 0 (overworld) while populating chunk [101, -31], causing cascading worldgen lag.
+[06:17:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [108, -33] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [108, -34] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [109, -33] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [109, -34] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [110, -32] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [110, -33] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:17:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [110, -34] in dimension 0 (overworld) while populating chunk [109, -32], causing cascading worldgen lag.
+[06:17:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:20:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:20:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 058d19e2-8bb2-427f-aace-72a2ddd3500e owned by null
+[06:20:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 2af14f26-69ec-48c0-95d6-bdb756f913d9 owned by null
+[06:20:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 9d876cc7-efef-4099-bf24-a76007b5c694 owned by null
+[06:20:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID 973bf0f8-03fb-40ed-8c56-40de311bdc67 owned by null
+[06:24:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [102, -39] in dimension 0 (overworld) while populating chunk [103, -38], causing cascading worldgen lag.
+[06:24:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [103, -39] in dimension 0 (overworld) while populating chunk [103, -38], causing cascading worldgen lag.
+[06:24:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [104, -38] in dimension 0 (overworld) while populating chunk [103, -38], causing cascading worldgen lag.
+[06:24:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [104, -39] in dimension 0 (overworld) while populating chunk [103, -38], causing cascading worldgen lag.
+[06:24:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [] in Ruin template: Ship4.tml
+[06:24:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [91, -41] in dimension 0 (overworld) while populating chunk [92, -41], causing cascading worldgen lag.
+[06:24:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [90, -41] in dimension 0 (overworld) while populating chunk [92, -41], causing cascading worldgen lag.
+[06:24:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:24:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:24:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:24:58] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[06:24:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Dohko598) moved too quickly! 10.11302440521763,0.0,1.241516923521715
+[06:25:13] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [94, -46] in dimension 0 (overworld) while populating chunk [94, -45], causing cascading worldgen lag.
+[06:25:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[06:25:13] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
+[06:25:13] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [106, -45] in dimension 0 (overworld) while populating chunk [105, -45], causing cascading worldgen lag.
+[06:25:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:25:14] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [106, -46] in dimension 0 (overworld) while populating chunk [107, -45], causing cascading worldgen lag.
+[06:25:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:335]: Faulty Template name: Ship1.tml
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.util.ArrayList.get(ArrayList.java:435)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuildNested(RuinTemplate.java:435)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinTemplate.doBuild(RuinTemplate.java:330)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.createBuilding(RuinGenerator.java:257)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinGenerator.generateNormal(RuinGenerator.java:199)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.generateSurface(RuinsMod.java:234)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod.access$300(RuinsMod.java:44)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at atomicstryker.ruins.common.RuinsMod$RuinsWorldGenerator.generate(RuinsMod.java:203)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraftforge.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:167)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186034_a(Chunk.java:1020)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.chunk.Chunk.func_186030_a(Chunk.java:985)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:157)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[06:25:15] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplate:doBuild:336]: 	at java.lang.Thread.run(Thread.java:750)
