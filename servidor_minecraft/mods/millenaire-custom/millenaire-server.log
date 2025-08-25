@@ -112,3 +112,34 @@
 8.1.1 25-08-2025 04:04:29 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
 8.1.1 25-08-2025 04:04:29 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
 8.1.1 25-08-2025 04:04:29 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 25-08-2025 06:10:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:11:56 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:11 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:16 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:21 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:26 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:31 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:36 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:41 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:46 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:51 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:12:57 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:02 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:07 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:14 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:32 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:40 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+8.1.1 25-08-2025 06:13:45 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193

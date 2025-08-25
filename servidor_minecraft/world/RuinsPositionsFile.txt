@@ -97,9 +97,14 @@
 1262 67 -286 1273 73 -272 Barn.tml
 1265 91 -93 1296 101 -78 STP.tml
 1342 46 -479 1359 50 -474 Ship.tml
+1363 89 -16 1374 93 -7 SolarPanel.tml
 1374 50 -562 1410 61 -553 Ship2.tml
 1376 48 -320 1421 56 -313 Ship4.tml
 1396 64 -221 1410 70 -208 ThrownHouse.tml
 1414 40 -393 1418 42 -389 OceanEmeraldOreOutcrop.tml
 1480 48 -533 1503 48 -510 OilSlick.tml
 1488 68 -107 1511 106 -86 Locator.tml
+1531 68 -252 1544 93 -205 GantryCrane.tml
+1558 67 -319 1559 69 -318 BuriedChest.tml
+1671 63 -261 1682 77 -250 DwarfBase.tml
+1752 65 -286 1762 79 -276 Building6.tml

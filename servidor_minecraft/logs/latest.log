@@ -2252,3 +2252,154 @@
 [06:04:41] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
 [06:04:52] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
 [06:04:52] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
+[06:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm has made the advancement [Masquerade]
+[06:05:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Deimonxm
+[06:07:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [108, -8] in dimension 0 (overworld) while populating chunk [108, -9], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [104, -6] in dimension 0 (overworld) while populating chunk [108, -7], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [105, -6] in dimension 0 (overworld) while populating chunk [108, -7], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [106, -6] in dimension 0 (overworld) while populating chunk [109, -7], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [107, -6] in dimension 0 (overworld) while populating chunk [109, -7], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [108, -6] in dimension 0 (overworld) while populating chunk [109, -7], causing cascading worldgen lag.
+[06:07:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:07:36] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[06:09:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[06:09:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Fire Dragon
+[06:09:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:09:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID 7bd0c07a-dcf3-44cb-9fde-be0d214dfdb7 owned by null
+[06:09:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID c8f369c5-3588-4140-8700-f504984a15c6 owned by null
+[06:09:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID 884be43b-6247-4db7-87ce-b6fae1949b46 owned by null
+[06:09:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 2134ff49-762b-4e68-9da3-d0f78c964234 owned by null
+[06:09:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[06:09:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[06:09:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[06:09:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[06:09:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [103, -28] in dimension 0 (overworld) while populating chunk [104, -27], causing cascading worldgen lag.
+[06:09:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:09:27] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [103, -29] in dimension 0 (overworld) while populating chunk [104, -27], causing cascading worldgen lag.
+[06:09:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:09:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [96, -28] in dimension 0 (overworld) while populating chunk [97, -28], causing cascading worldgen lag.
+[06:09:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 has made the advancement [Millénaire]
+[06:10:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598
+[06:10:56] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:01] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:06] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:15] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:16] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:21] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:21] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:26] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:11:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:11:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:11:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:11:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:11:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:11:30] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:31] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[06:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Fire Dragon
+[06:11:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[06:11:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:39] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID 7bd0c07a-dcf3-44cb-9fde-be0d214dfdb7 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID c8f369c5-3588-4140-8700-f504984a15c6 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID 884be43b-6247-4db7-87ce-b6fae1949b46 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 2134ff49-762b-4e68-9da3-d0f78c964234 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[06:11:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[06:11:41] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dohko598 moved wrongly!
+[06:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:11:46] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:51] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was incinerated by a dragon
+[06:11:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:11:56] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:01] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:03] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:06] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:11] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:16] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:20] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:21] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:26] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:31] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was incinerated by a dragon
+[06:12:34] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:36] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was turned into KFC by a dragon
+[06:12:41] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:41] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:12:46] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was slain by Fire Dragon
+[06:12:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Deimonxm moved wrongly!
+[06:12:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:51] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:12:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:12:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[06:12:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[06:12:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[06:12:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[06:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:12:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:12:57] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:13:02] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was incinerated by a dragon
+[06:13:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:13:07] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was incinerated by a dragon
+[06:13:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID 7bd0c07a-dcf3-44cb-9fde-be0d214dfdb7 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID c8f369c5-3588-4140-8700-f504984a15c6 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID 884be43b-6247-4db7-87ce-b6fae1949b46 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 2134ff49-762b-4e68-9da3-d0f78c964234 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[06:13:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[06:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was turned into KFC by a dragon
+[06:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:13:14] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:13:14] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Deimonxm was incinerated by a dragon
+[06:13:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Deimonxm
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ee081022-344d-405e-abde-c2b59cfbdfc2 owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Guldo with UUID 36855091-9e40-4621-81f2-28eeb92b879b owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID c12502d2-2502-4c95-9206-b0c2d6bbf796 owned by null
+[06:13:19] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kagri with UUID 31284b4e-6cda-421e-9954-970d50da7c43 owned by null
+[06:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Deimonxm: Teleported Deimonxm to Dohko598]
+[06:13:32] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dohko598 was slain by Fire Dragon
+[06:13:40] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Dohko598
+[06:13:40] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:13:45] [Server thread/INFO] [FML]: SRV ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@17cfbee: No TileEntitySign at: 1458/69/-193
+[06:14:14] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [101, -1] in dimension 0 (overworld) while populating chunk [103, -1], causing cascading worldgen lag.
+[06:14:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[06:14:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Dohko598

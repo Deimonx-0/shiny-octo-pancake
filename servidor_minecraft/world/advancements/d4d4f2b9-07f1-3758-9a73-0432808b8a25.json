@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2025-08-25 06:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-21 04:39:47 +0000"
@@ -1058,6 +1064,7 @@
       "deep_ocean": "2025-08-21 07:12:08 +0000",
       "beaches": "2025-08-25 05:43:31 +0000",
       "extreme_hills_with_trees": "2025-08-25 05:12:56 +0000",
+      "savanna": "2025-08-25 06:05:01 +0000",
       "plains": "2025-08-25 05:43:37 +0000",
       "taiga": "2025-08-21 05:45:49 +0000",
       "ocean": "2025-08-21 04:56:19 +0000",
