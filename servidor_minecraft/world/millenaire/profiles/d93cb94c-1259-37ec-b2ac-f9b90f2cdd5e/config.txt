@@ -1,0 +1,4 @@
+player_name=Dohko598
+donation_mode=false
+village_diplomacy=998/70/80,5
+village_diplomacy=-57/78/128,5

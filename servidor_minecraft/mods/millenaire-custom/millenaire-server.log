@@ -1,0 +1,148 @@
+8.1.1 11-09-2025 02:45:58 Starting new session. Mods: examplemod 
+8.1.1 11-09-2025 02:46:09 MAJOR: null: Loading language: fr
+8.1.1 11-09-2025 02:46:09 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 11-09-2025 02:46:09 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 11-09-2025 02:46:10 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 11-09-2025 04:05:51 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@555424cd: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5b93c1cf
+8.1.1 11-09-2025 04:10:36 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@14692ef6: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5b93c1cf
+8.1.1 11-09-2025 04:10:37 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@38a201c5: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5b93c1cf
+8.1.1 11-09-2025 04:20:16 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@1c9395a9: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@12546993
+8.1.1 11-09-2025 04:48:53 Starting new session. Mods: examplemod 
+8.1.1 11-09-2025 04:49:04 MAJOR: null: Loading language: fr
+8.1.1 11-09-2025 04:49:04 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 11-09-2025 04:49:04 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 11-09-2025 04:49:04 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 11-09-2025 05:16:12 Starting new session. Mods: examplemod 
+8.1.1 11-09-2025 05:16:25 MAJOR: null: Loading language: fr
+8.1.1 11-09-2025 05:16:25 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 11-09-2025 05:16:25 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 11-09-2025 05:16:26 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 11-09-2025 05:39:35 Starting new session. Mods: examplemod 
+8.1.1 11-09-2025 05:39:45 MAJOR: null: Loading language: fr
+8.1.1 11-09-2025 05:39:47 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 11-09-2025 05:39:47 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 11-09-2025 05:39:47 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 11-09-2025 06:03:09 Exception when finding JPS path:
+8.1.1 11-09-2025 06:03:09 org.millenaire.common.utilities.ThreadSafeUtilities$ChunkAccessException: Attempting to access a coordinate in an unloaded chunk within a thread in a server world at -9/-746.
+	at org.millenaire.common.utilities.ThreadSafeUtilities.validateCoords(ThreadSafeUtilities.java:81)
+	at org.millenaire.common.utilities.ThreadSafeUtilities.getBlockState(ThreadSafeUtilities.java:44)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.isPassableBlock(AStarStatic.java:152)
+	at org.millenaire.common.pathing.atomicstryker.AStarStatic.translateAStarPathtoPathEntity(AStarStatic.java:302)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:441)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2347)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+8.1.1 17-09-2025 02:57:33 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 02:57:44 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 02:57:45 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 02:57:45 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 02:57:45 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 17-09-2025 03:11:36 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:13:55 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:14:12 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 03:14:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 03:14:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 03:14:12 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 17-09-2025 03:17:51 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:18:07 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 03:18:07 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 03:18:07 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 03:18:07 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 17-09-2025 03:37:40 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:37:56 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 03:37:56 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 03:37:56 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 03:37:57 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 17-09-2025 03:40:16 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:40:33 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 03:40:33 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 03:40:33 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 03:40:33 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 17-09-2025 03:45:07 Starting new session. Mods: examplemod 
+8.1.1 17-09-2025 03:45:17 MAJOR: null: Loading language: fr
+8.1.1 17-09-2025 03:45:18 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 17-09-2025 03:45:18 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 17-09-2025 03:45:18 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 29-09-2025 04:04:59 Starting new session. Mods: examplemod 
+8.1.1 29-09-2025 04:05:12 MAJOR: null: Loading language: fr
+8.1.1 29-09-2025 04:05:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 29-09-2025 04:05:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 29-09-2025 04:05:12 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 29-09-2025 04:45:52 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@51e26f35: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5f259aa1
+8.1.1 29-09-2025 05:01:46 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@4d77ebcd: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@4948663c
+8.1.1 29-09-2025 05:01:46 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@50098566: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@4948663c
+8.1.1 01-10-2025 05:12:14 Starting new session. Mods: examplemod 
+8.1.1 01-10-2025 05:12:25 MAJOR: null: Loading language: fr
+8.1.1 01-10-2025 05:12:25 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 01-10-2025 05:12:25 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 01-10-2025 05:12:25 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 01-10-2025 05:15:52 Starting new session. Mods: examplemod 
+8.1.1 01-10-2025 05:16:02 MAJOR: null: Loading language: fr
+8.1.1 01-10-2025 05:16:02 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 01-10-2025 05:16:02 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 01-10-2025 05:16:02 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 01-10-2025 05:48:23 Starting new session. Mods: examplemod 
+8.1.1 01-10-2025 05:48:33 MAJOR: null: Loading language: fr
+8.1.1 01-10-2025 05:48:33 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 01-10-2025 05:48:33 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 01-10-2025 05:48:33 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 01-10-2025 06:27:01 Starting new session. Mods: examplemod 
+8.1.1 01-10-2025 06:27:12 MAJOR: null: Loading language: fr
+8.1.1 01-10-2025 06:27:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 01-10-2025 06:27:12 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 01-10-2025 06:27:13 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 01-10-2025 06:39:20 Exception when finding JPS path:
+8.1.1 01-10-2025 06:39:20 java.lang.ArrayStoreException: net.minecraft.pathfinding.PathPoint
+	at net.minecraft.pathfinding.Path.func_186309_a(SourceFile:43)
+	at net.minecraft.pathfinding.PathNavigate.func_75487_m(SourceFile:324)
+	at net.minecraft.pathfinding.PathNavigateGround.func_75487_m(SourceFile:96)
+	at net.minecraft.pathfinding.PathNavigate.func_75484_a(SourceFile:159)
+	at org.millenaire.common.entity.MillVillager.registerNewPath(MillVillager.java:3060)
+	at org.millenaire.common.entity.MillVillager.applyPathCalculatedSinceLastTick(MillVillager.java:443)
+	at org.millenaire.common.entity.MillVillager.func_70071_h_(MillVillager.java:2347)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+8.1.1 06-10-2025 02:25:32 Starting new session. Mods: examplemod 
+8.1.1 06-10-2025 02:25:45 MAJOR: null: Loading language: fr
+8.1.1 06-10-2025 02:25:45 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 06-10-2025 02:25:45 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 06-10-2025 02:25:46 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 06-10-2025 02:33:41 Starting new session. Mods: examplemod 
+8.1.1 06-10-2025 02:33:52 MAJOR: null: Loading language: fr
+8.1.1 06-10-2025 02:33:52 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 06-10-2025 02:33:52 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 06-10-2025 02:33:52 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 06-10-2025 02:42:32 Starting new session. Mods: examplemod 
+8.1.1 06-10-2025 02:42:42 MAJOR: null: Loading language: fr
+8.1.1 06-10-2025 02:42:42 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 06-10-2025 02:42:42 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 06-10-2025 02:42:42 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 06-10-2025 04:10:09 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@252ef019: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2be91b14
+8.1.1 08-10-2025 05:19:07 Starting new session. Mods: examplemod 
+8.1.1 08-10-2025 05:19:18 MAJOR: null: Loading language: fr
+8.1.1 08-10-2025 05:19:18 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 08-10-2025 05:19:18 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 08-10-2025 05:19:19 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.1 08-10-2025 05:44:10 Starting new session. Mods: examplemod 
+8.1.1 08-10-2025 05:44:21 MAJOR: null: Loading language: fr
+8.1.1 08-10-2025 05:44:21 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.1 08-10-2025 05:44:21 ERROR: null: Git conflict lines present in /workspaces/shiny-octo-pancake/servidor_minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.1 08-10-2025 05:44:21 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning

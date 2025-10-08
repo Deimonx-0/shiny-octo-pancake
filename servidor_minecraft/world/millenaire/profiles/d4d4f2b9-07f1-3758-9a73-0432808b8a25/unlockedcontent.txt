@@ -1,0 +1,16 @@
+villager:norman_lady
+villager:norman_lumberman
+villager:norman_ciderproducer
+villager:norman_wife
+village:norman_loneinn
+village:norman_agricole
+village:mayan_lonemayanshaman
+village:byzantines_lonesheepfarm_x
+building:norman_loneinn
+building:norman_largeorchard
+building:mayan_lonemayanshaman
+building:norman_manor
+building:norman_manor_A_inn
+building:byzantines_oldsheepfarm
+building:norman_loneinn_A_stall_0
+building:norman_grove

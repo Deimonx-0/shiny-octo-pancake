@@ -1,0 +1,17 @@
+villager:norman_merchant
+villager:norman_lady
+villager:norman_ciderproducer
+villager:byzantines_wife_byzantine
+villager:norman_wife
+villager:byzantines_artisanwife_byzantine
+village:norman_agricole
+village:byzantines_tradingvillage
+building:byzantines_workshop
+building:byzantines_cross
+building:byzantines_sandpit
+building:norman_largeorchard
+building:norman_manor
+building:norman_manor_A_inn
+building:byzantines_woodcutter
+building:byzantines_mine
+building:byzantines_fishfarm

@@ -1,0 +1,2 @@
+quest:normanrasgullas;step:0;startTime:121000;currentStepStartTime:121000;villager:startvillager,2546935003291685326,998/70/80;villager:child,8309652370218609853,998/70/80
+quest:losttapestry;step:0;startTime:128000;currentStepStartTime:128000;villager:startvillager,1292449174841174040,998/70/80;villager:lady,3423871885871097753,998/70/80
